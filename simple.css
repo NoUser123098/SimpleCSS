@@ -4,6 +4,9 @@
 .background-dodgerblue {
   background-color: dodgerblue;
 }
+.background-aqua {
+  background-color: aqua;
+}
 .background-red {
   background-color: red;
 }
@@ -48,4 +51,7 @@
 }
 .background-teal {
   background-color: teal;
+}
+.background-garnet {
+  background-color: #862633;
 }
