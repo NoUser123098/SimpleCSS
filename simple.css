@@ -128,3 +128,15 @@
   border: 1px solid black;
   border-radius: 5px;
 }
+.border-left {
+  border-left: 6px solid black;
+}
+.border-right {
+  border-right: 6px solid black;
+}
+.border-top {
+  border-top: 6px solid black;
+}
+.border-bottom {
+  border-bottom: 6px solid black;
+}
