@@ -19,6 +19,9 @@
 .background-deeppink {
   background-color: deeppink;
 }
+.background-magenta {
+  background-color: magenta;
+}
 .background-purple {
   background-color: purple;
 }
@@ -39,4 +42,10 @@
 }
 .background-yellow {
   background-color: yellow;
+}
+.background-orange {
+  background-color: orange;
+}
+.background-teal {
+  background-color: teal;
 }
