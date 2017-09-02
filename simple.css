@@ -112,3 +112,19 @@
 .text-garnet {
   color: #862633;
 }
+.border-solid {
+  border: 1px solid black;
+}
+.border-dotted {
+  border: 1px dotted black;
+}
+.border-dashed {
+  border: 1px dashed black;
+}
+.border-double {
+  border: 1px double black;
+}
+.border-round {
+  border: 1px solid black;
+  border-radius: 5px;
+}
