@@ -1,6 +1,9 @@
 .background-minecraft {
   background-image: url("/background-image/minecraft.jpg");
 }
+.background-cod {
+  background-image: url("/background-image/codbo2.jpg");
+}
 .background-blue {
   background-color: blue;
 }
@@ -115,31 +118,12 @@
 .text-garnet {
   color: #862633;
 }
-.border-solid {
+border-solid-black {
   border: 1px solid black;
 }
-.border-dotted {
-  border: 1px dotted black;
+border-solid-blue {
+  border: 1px solid blue;
 }
-.border-dashed {
-  border: 1px dashed black;
-}
-.border-double {
-  border: 1px double black;
-}
-.border-round {
-  border: 1px solid black;
-  border-radius: 5px;
-}
-.border-left {
-  border-left: 6px solid black;
-}
-.border-right {
-  border-right: 6px solid black;
-}
-.border-top {
-  border-top: 6px solid black;
-}
-.border-bottom {
-  border-bottom: 6px solid black;
+border-solid-dodgerblue {
+  border: 1px solid dodgerblue;
 }
