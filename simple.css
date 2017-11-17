@@ -100,9 +100,6 @@
 .text-springgreen {
   color: springgreen;
 }
-.text-black {
-  color: black;
-}
 .text-gray {
   color: gray;
 }
@@ -118,12 +115,57 @@
 .text-garnet {
   color: #862633;
 }
-border-solid-black {
+.border-solid-black {
   border: 1px solid black;
 }
-border-solid-blue {
+.border-solid-blue {
   border: 1px solid blue;
 }
-border-solid-dodgerblue {
+.border-solid-dodgerblue {
   border: 1px solid dodgerblue;
+}
+.border-solid-aqua {
+  border: 1px solid aqua;
+}
+.border-solid-red {
+  border: 1px solid red;
+}
+.border-solid-crimson {
+  border: 1px solid crimson;
+}
+.border-solid-pink {
+  border: 1px solid pink;
+}
+.border-solid-hotpink {
+  border: 1px solid hotpink;
+}
+.border-solid-deeppink {
+  border: 1px solid deeppink;
+}
+.border-solid-magenta {
+  border: 1px solid magenta;
+}
+.border-solid-purple {
+  border: 1px solid purple;
+}
+.border-solid-green {
+  border: 1px solid green;
+}
+.border-solid-lime {
+  border: 1px solid lime;
+}
+.border-solid-springgreen {
+  border: 1px solid springgreen;
+}
+.border-solid-gray {
+  border: 1px solid gray;
+}
+.border-solid-yellow {
+  border: 1px solid yellow;
+}
+.border-solid-orange {
+  border: 1px solid orange;
+}
+.border-solid-teal {
+  border: 1px solid teal;
 }
