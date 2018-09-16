@@ -174,5 +174,13 @@
 }
 .code-aaaa {
   background-color: #1F1B1A;
-  font-family: monospace;
+  font-family: Courier, 'New Courier', monospace;
+  color: gray;
+  width: 100%;
+}
+.code-aaab {
+  background-color: black;
+  font-family: Courier, 'New Courier', monospace;
+  color: green;
+  width: 100%;
 }
