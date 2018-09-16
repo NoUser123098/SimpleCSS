@@ -1,8 +1,20 @@
+@font-face {
+  src: url("/font-family/scp.otf");
+  font-family: "Source Code Pro";
+}
 .background-minecraft {
   background-image: url("/background-image/minecraft.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 .background-cod {
   background-image: url("/background-image/codbo2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 .background-blue {
   background-color: blue;
@@ -174,13 +186,19 @@
 }
 .code-aaaa {
   background-color: #1F1B1A;
-  font-family: Courier, 'New Courier', monospace;
+  font-family: "Source Code Pro";
   color: gray;
   width: 100%;
 }
 .code-aaab {
-  background-color: black;
-  font-family: Courier, 'New Courier', monospace;
+  background-color: #1F1B1A;
+  font-family: "Source Code Pro";
   color: green;
+  width: 100%;
+}
+.code-aaac {
+  background-color: #1F1B1A;
+  font-family: "Source Code Pro";
+  color: lime;
   width: 100%;
 }
