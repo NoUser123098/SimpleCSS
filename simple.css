@@ -234,13 +234,25 @@
 }
 .code-aaai {
   background-color: black;
-  font-family: Courier, 'New Courier', monospace;
-  color: green;
+  font-family: "Source Code Pro";
+  color: #8b4b65;
   width: 100%;
 }
 .code-aaaj {
   background-color: black;
   font-family: Courier, 'New Courier', monospace;
   color: green;
+  width: 100%;
+}
+.code-aaak {
+  background-color: black;
+  font-family: Courier, 'New Courier', monospace;
+  color: green;
+  width: 100%;
+}
+.code-aaal {
+  background-color: black;
+  font-family: Courier, 'New Courier', monospace;
+  color: #8b4b65;
   width: 100%;
 }
