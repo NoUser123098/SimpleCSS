@@ -369,3 +369,60 @@
 .dotted-garnet {
   border: 1px dotted #862633;
 }
+.dashed-black {
+  border: 1px dashed black;
+}
+.dashed-blue {
+  border: 1px dashed blue;
+}
+.dashed-dodgerblue {
+  border: 1px dashed dodgerblue;
+}
+.dashed-aqua {
+  border: 1px dashed aqua;
+}
+.dashed-red {
+  border: 1px dashed red;
+}
+.dashed-crimson {
+  border: 1px dashed crimson;
+}
+.dashed-pink {
+  border: 1px dashed pink;
+}
+.dashed-hotpink {
+  border: 1px dashed hotpink;
+}
+.dashed-deeppink {
+  border: 1px dashed deeppink;
+}
+.dashed-magenta {
+  border: 1px dashed magenta;
+}
+.dashed-purple {
+  border: 1px dashed purple;
+}
+.dashed-green {
+  border: 1px dashed green;
+}
+.dashed-lime {
+  border: 1px dashed lime;
+}
+.dashed-springgreen {
+  border: 1px dashed springgreen;
+}
+.dashed-gray {
+  border: 1px dashed gray;
+}
+.dashed-yellow {
+  border: 1px dashed yellow;
+}
+.dashed-orange {
+  border: 1px dashed orange;
+}
+.dashed-teal {
+  border: 1px dashed teal;
+}
+.dashed-garnet {
+  border: 1px dashed #862633;
+}
