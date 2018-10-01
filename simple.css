@@ -151,6 +151,14 @@
 .font-seville {
   font-family: "Seville";
 }
+.note-blue {
+  border-left: 6px solid blue;
+  background-color: #9999ff;
+}
+.note-red {
+  border-left: 6px solid red;
+  background-color: #ff9999;
+}
 .solid-black {
   border: 1px solid black;
 }
