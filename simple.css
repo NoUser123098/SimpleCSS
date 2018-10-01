@@ -85,6 +85,21 @@
 .background-garnet {
   background-color: #862633;
 }
+.background-darkblue {
+  background-color: darkblue;
+}
+.background-darkred {
+  background-color: darkred;
+}
+.background-gold {
+  background-color: gold;
+}
+.background-tan {
+  background-color: tan;
+}
+.background-tomato {
+  background-color: tomato;
+}
 .text-blue {
   color: blue;
 }
