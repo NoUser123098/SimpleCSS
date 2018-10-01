@@ -154,9 +154,6 @@
 .solid-black {
   border: 1px solid black;
 }
-.solid-big-black {
-  border: 4px solid black;
-}
 .solid-blue {
   border: 1px solid blue;
 }
@@ -180,4 +177,34 @@
 }
 .solid-deeppink {
   border: 1px solid deeppink;
+}
+.solid-magenta {
+  border: 1px solid magenta;
+}
+.solid-purple {
+  border: 1px solid purple;
+}
+.solid-green {
+  border: 1px solid green;
+}
+.solid-lime {
+  border: 1px solid lime;
+}
+.solid-springgreen {
+  border: 1px solid springgreen;
+}
+.solid-gray {
+  border: 1px solid gray;
+}
+.solid-yellow {
+  border: 1px solid yellow;
+}
+.solid-orange {
+  border: 1px solid orange
+}
+.solid-teal {
+  border: 1px solid teal;
+}
+.solid-garnet {
+  border: 1px solid #862633;
 }
