@@ -345,3 +345,27 @@
 .dotted-purple {
   border: 1px dotted purple;
 }
+.dotted-green {
+  border: 1px dotted green;
+}
+.dotted-lime {
+  border: 1px dotted lime;
+}
+.dotted-springgreen {
+  border: 1px dotted springgreen;
+}
+.dotted-gray {
+  border: 1px dotted gray;
+}
+.dotted-yellow {
+  border: 1px dotted yellow;
+}
+.dotted-orange {
+  border: 1px dotted orange;
+}
+.dotted-teal {
+  border: 1px dotted teal;
+}
+.dotted-garnet {
+  border: 1px dotted #862633;
+}
