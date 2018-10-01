@@ -151,3 +151,33 @@
 .font-seville {
   font-family: "Seville";
 }
+.solid-black {
+  border: 1px solid black;
+}
+.solid-big-black {
+  border: 4px solid black;
+}
+.solid-blue {
+  border: 1px solid blue;
+}
+.solid-dodgerblue {
+  border: 1px solid dodgerblue;
+}
+.solid-aqua {
+  border: 1px solid aqua;
+}
+.solid-red {
+  border: 1px solid red;
+}
+.solid-crimson {
+  border: 1px solid crimson;
+}
+.solid-pink {
+  border: 1px solid pink;
+}
+.solid-hotpink {
+  border: 1px solid hotpink;
+}
+.solid-deeppink {
+  border: 1px solid deeppink;
+}
