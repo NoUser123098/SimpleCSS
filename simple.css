@@ -159,6 +159,102 @@
   border-left: 6px solid red;
   background-color: #ff9999;
 }
+.card-container {
+    padding: 2px 16px;
+}
+.card-blue {
+  background-color: blue;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-dodgerblue {
+  background-color: dodgerblue;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-aqua {
+  background-color: aqua;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-red {
+  background-color: red;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-crimson {
+  background-color: crimson;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-pink {
+  background-color: pink;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-hotpink {
+  background-color: hotpink;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-deeppink {
+  background-color: deeppink;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-magenta {
+  background-color: magenta;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-purple {
+  background-color: purple;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-green {
+  background-color: green;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-lime {
+  background-color: lime;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-springgreen {
+  background-color: springgreen;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-gray {
+  background-color: gray;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-yellow {
+  background-color: yellow;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-orange {
+  background-color: orange;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-teal {
+  background-color: teal;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-garnet {
+  background-color: #862633;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-blue:hover, .card-dodgerblue:hover, .card-aqua:hover, .card-red:hover. .card-crimson:hover, .card-pink:hover, .card-hotpink:hover, .card-deeppink:hover, .card-magenta:hover, .card-purple:hover, .card-green:hover, .card-lime:hover, .card-springgreen:hover, .card-yellow:hover, .card-orange:hover, .card-gray:hover, .card-teal:hover, .card-garnet:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 .solid-black {
   border: 1px solid black;
 }
@@ -208,11 +304,44 @@
   border: 1px solid yellow;
 }
 .solid-orange {
-  border: 1px solid orange
+  border: 1px solid orange;
 }
 .solid-teal {
   border: 1px solid teal;
 }
 .solid-garnet {
   border: 1px solid #862633;
+}
+.dotted-black {
+  border: 1px dotted black;
+}
+.dotted-blue {
+  border: 1px dotted blue;
+}
+.dotted-dodgerblue {
+  border: 1px dotted dodgerblue;
+}
+.dotted-aqua {
+  border: 1px dotted aqua;
+}
+.dotted-red {
+  border: 1px dotted red;
+}
+.dotted-crimson {
+  border: 1px dotted crimson;
+}
+.dotted-pink {
+  border: 1px dotted pink;
+}
+.dotted-hotpink {
+  border: 1px dotted hotpink;
+}
+.dotted-deeppink {
+  border: 1px dotted deeppink;
+}
+.dotted-magenta {
+  border: 1px dotted magenta;
+}
+.dotted-purple {
+  border: 1px dotted purple;
 }
