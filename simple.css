@@ -202,20 +202,72 @@
   background-color: #f6a2b3;
 }
 .note-hotpink {
-  border: 6px solid hotpink;
+  border-left: 6px solid hotpink;
   background-color: #ff99cc;
 }
 .note-deeppink {
-  border: 6px solid deeppink;
+  border-left: 6px solid deeppink;
   background-color: #ff66b8;
 }
 .note-magenta {
-  border: 6px solid magenta;
+  border-left: 6px solid magenta;
   background-color: #ffb3ff;
 }
 .note-purple {
-  border: 6px solid purple;
+  border-left: 6px solid purple;
   background-color: #ffb3ff;
+}
+.note-green {
+  border-left: 6px solid green;
+  background-color: #b3ffb3;
+}
+.note-lime {
+  border-left: 6px solid lime;
+  background-color: #b3ffb3;
+}
+.note-springgreen {
+  border-left: 6px solid springgreen;
+  background-color: #99ffcc;
+}
+.note-gray {
+  border-left: 6px solid gray;
+  background-color: #ccc;
+}
+.note-yellow {
+  border-left: 6px solid yellow;
+  background-color: #ffff99;
+}
+.note-orange {
+  border-left: 6px solid orange;
+  background-color: #ffdb99;
+}
+.note-teal {
+  border-left: 6px solid teal;
+  background-color: #00e6e6;
+}
+.note-garnet {
+  border-left: 6px solid #862633;
+  background-color: #eec3c9;
+}
+.note-darkblue {
+  bofrder-left: 6px solid darkblue;
+  background-color: #b3b3ff;
+}
+.note-darkred {
+  border-left: 6px solid darkred;
+  background-color: #ffb3b3;
+}
+.note-gold {
+  border-left: 6px solid gold;
+  background-color: #fff099;
+}
+.note-tan {
+  border-left: 6px solid tan;
+  background-color: #eadbc8;
+}
+.note-tomato {
+  border-left: 6px solid tomato;
+  background-color: #ffa899;
 }
 .card-container {
   padding: 2px 16px;
