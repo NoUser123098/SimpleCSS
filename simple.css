@@ -606,3 +606,79 @@
 .dashed-tomato {
   border: 1px dashed tomato;
 }
+.dec-b {
+  font-weight: bold;
+}
+.dec-i {
+  font-style: italic;
+}
+.dec-u {
+  text-decoration: underline;
+}
+.dec-s {
+  text-decoration: line-through;
+}
+.dec-o {
+  text-decoration: overline;
+}
+.dec-bi {
+  font-weight: bold;
+  font-style: italic;
+}
+.dec-bu {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.dec-bs {
+  font-weight: bold;
+  text-decoration: line-through;
+}
+.dec-bo {
+  font-weight: bold;
+  text-decoration: overline;
+}
+.dec-iu {
+  font-style: italic;
+  text-decoration: underline;
+}
+.dec-is {
+  font-style: italic;
+  text-decoration: line-through;
+}
+.dec-io {
+  font-style: italic;
+  text-decoration: overline;
+}
+.dec-us {
+  text-decoration: underline line-through;
+}
+.dec-uo {
+  text-decoration: underline overline;
+}
+.dec-so {
+  text-decoration: line-through overline;
+}
+.dec-biu {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+.dec-ius {
+  font-style: italic;
+  text-decoration: underline line-through;
+}
+.dec-uso {
+  text-decoration: underline line-through overline;
+}
+.dec-bus {
+  font-weight: bold;
+  text-decoration: underline line-through;
+}
+.dec-buo {
+  font-weight: bold;
+  text-decoration: underline overline;
+}
+.dec-bso {
+  font-weight: bold;
+  text-decoration: line-through overline;
+}
