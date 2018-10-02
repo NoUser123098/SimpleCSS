@@ -154,6 +154,21 @@
 .text-garnet {
   color: #862633;
 }
+.text-darkblue {
+  color: darkblue;
+}
+.text-darkred {
+  color: darkred;
+}
+.text-gold {
+  color: gold;
+}
+.text-tan {
+  color: tan;
+}
+.text-tomato {
+  color: tomato;
+}
 .font-scp {
   font-family: "Source Code Pro";
 }
@@ -175,7 +190,7 @@
   background-color: #ff9999;
 }
 .card-container {
-    padding: 2px 16px;
+  padding: 2px 16px;
 }
 .card-blue {
   background-color: blue;
