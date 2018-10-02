@@ -399,6 +399,21 @@
 .dotted-garnet {
   border: 1px dotted #862633;
 }
+.dotted-darkblue {
+  border: 1px dotted darkblue;
+}
+.dotted-darkred {
+  border: 1px dotted darkred;
+}
+.dotted-gold {
+  border: 1px dotted gold;
+}
+.dotted-tan {
+  border: 1px dotted tan;
+}
+.dotted-tomato {
+  border: 1px dotted tomato;
+}
 .dashed-black {
   border: 1px dashed black;
 }
@@ -455,4 +470,19 @@
 }
 .dashed-garnet {
   border: 1px dashed #862633;
+}
+.dashed-darkblue {
+  border: 1px dashed darkblue;
+}
+.dashed-darkred {
+  border: 1px dashed darkred;
+}
+.dashed-gold {
+  border: 1px dashed gold;
+}
+.dashed-tan {
+  border: 1px dashed tan;
+}
+.dashed-tomato {
+  border: 1px dashed tomato;
 }
