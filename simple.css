@@ -621,3 +621,18 @@
 .dec-o {
   text-decoration: overline;
 }
+.hnav-blue {
+  overflow: hidden;
+  background-color: blue;
+}
+.hnav-blue a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-blue a:hover {
+  background-color: #000099;
+}
