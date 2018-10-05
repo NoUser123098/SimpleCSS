@@ -621,23 +621,6 @@
 .dec-o {
   text-decoration: overline;
 }
-/*
-.hnav- {
-  overflow: hidden;
-  background-color: ;
-}
-.hnav- a {
-  float: left;
-  color: ;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.hnav- a:hover {
-  background-color: #;
-}
-*/
 .hnav-blue {
   overflow: hidden;
   background-color: blue;
@@ -713,3 +696,95 @@
 .hnav-crimson a:hover {
   background-color: #8c0d26;
 }
+.hnav-pink {
+  overflow: hidden;
+  background-color: pink;
+}
+.hnav-pink a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-pink a:hover {
+  background-color: #ff8095;
+}
+.hnav-hotpink {
+  overflow: hidden;
+  background-color: hotpink;
+}
+.hnav-hotpink a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-hotpink a:hover {
+  background-color: #cc0066;
+}
+.hnav-deeppink {
+  overflow: hidden;
+  background-color: deeppink;
+}
+.hnav-deeppink a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-deeppink a:hover {
+  background-color: #990052;
+}
+.hnav-magenta {
+  overflow: hidden;
+  background-color: magenta;
+}
+.hnav-magenta a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-magenta a:hover {
+  background-color: #990099;
+}
+.hnav-purple {
+  overflow: hidden;
+  background-color: purple;
+}
+.hnav-purple a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-purple a:hover {
+  background-color: #4d004d;
+}
+/*
+.hnav- {
+  overflow: hidden;
+  background-color: ;
+}
+.hnav- a {
+  float: left;
+  color: ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav- a:hover {
+  background-color: #;
+}
+*/
