@@ -621,6 +621,23 @@
 .dec-o {
   text-decoration: overline;
 }
+/*
+.hnav- {
+  overflow: hidden;
+  background-color: ;
+}
+.hnav- a {
+  float: left;
+  color: ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav- a:hover {
+  background-color: #;
+}
+*/
 .hnav-blue {
   overflow: hidden;
   background-color: blue;
@@ -650,4 +667,49 @@
 }
 .hnav-dgblue a:hover {
   background-color: #004d99;
+}
+.hnav-aqua {
+  overflow: hidden;
+  background-color: aqua;
+}
+.hnav-aqua a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-aqua a:hover {
+  background-color: #009999;
+}
+.hnav-red {
+  overflow: hidden;
+  background-color: red;
+}
+.hnav-red a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-red a:hover {
+  background-color: #990000;
+}
+.hnav-crimson {
+  overflow: hidden;
+  background-color: crimson;
+}
+.hnav-crimson a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-crimson a:hover {
+  background-color: #8c0d26;
 }
