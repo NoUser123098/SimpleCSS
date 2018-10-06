@@ -1251,6 +1251,22 @@
   cursor: pointer;
   border-radius: 16px;
 }
+.img-grayscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.img-sepia {
+  -webkit-filter: sepia(100%);
+  filter: sepia(100%);
+}
+.img-invert {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+.img-blur {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
 /*
 Notes to Self:
 
@@ -1282,16 +1298,5 @@ Tomato
 
 Copy/Paste:
 
-.pillbtn- {
-  background-color: ;
-  border: none;
-  color: ;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 16px;
-}
+
 */
