@@ -966,3 +966,38 @@
 .hnav-tomato a:hover {
   background-color: #801300;
 }
+.round-10 {
+  border-radius: 10px;
+}
+.round-50 {
+  border-radius: 50px;
+}
+.round-100 {
+  border-radius: 100px;
+}
+.pill-blue {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+/*
+.pill- {
+  background-color: ;
+  border: none;
+  color: ;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+*/
