@@ -771,20 +771,198 @@
 .hnav-purple a:hover {
   background-color: #4d004d;
 }
-/*
-.hnav- {
+.hnav-green {
   overflow: hidden;
-  background-color: ;
+  background-color: green;
 }
-.hnav- a {
+.hnav-green a {
   float: left;
-  color: ;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
-.hnav- a:hover {
-  background-color: #;
+.hnav-green a:hover {
+  background-color: #003300;
 }
-*/
+.hnav-lime {
+  overflow: hidden;
+  background-color: lime;
+}
+.hnav-lime a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-lime a:hover {
+  background-color: #009900;
+}
+.hnav-springgreen {
+  overflow: hidden;
+  background-color: springgreen;
+}
+.hnav-springgreen a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-springgreen a:hover {
+  background-color: #00994d;
+}
+.hnav-gray {
+  overflow: hidden;
+  background-color: gray;
+}
+.hnav-gray a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-gray a:hover {
+  background-color: #4d4d4d;
+}
+.hnav-yellow {
+  overflow: hidden;
+  background-color: yellow;
+}
+.hnav-yellow a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-yellow a:hover {
+  background-color: #999900;
+}
+.hnav-orange {
+  overflow: hidden;
+  background-color: orange;
+}
+.hnav-orange a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-orange a:hover {
+  background-color: #996300;
+}
+.hnav-teal {
+  overflow: hidden;
+  background-color: teal;
+}
+.hnav-teal a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-teal a:hover {
+  background-color: #003333;
+}
+.hnav-garnet {
+  overflow: hidden;
+  background-color: #862633;
+}
+.hnav-garnet a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-garnet a:hover {
+  background-color: #50161e;
+}
+.hnav-darkblue {
+  overflow: hidden;
+  background-color: darkblue;
+}
+.hnav-darkblue a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-darkblue a:hover {
+  background-color: #00004d;
+}
+.hnav-darkred {
+  overflow: hidden;
+  background-color: darkred;
+}
+.hnav-darkred a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-darkred a:hover {
+  background-color: #4d0000;
+}
+.hnav-gold {
+  overflow: hidden;
+  background-color: gold;
+}
+.hnav-gold a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-gold a:hover {
+  background-color: #998200;
+}
+.hnav-tan {
+  overflow: hidden;
+  background-color: tan;
+}
+.hnav-tan a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-tan a:hover {
+  background-color: #5c4324;
+}
+.hnav-tomato {
+  overflow: hidden;
+  background-color: tomato;
+}
+.hnav-tomato a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-tomato a:hover {
+  background-color: #801300;
+}
