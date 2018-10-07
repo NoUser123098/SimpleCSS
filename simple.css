@@ -1336,6 +1336,27 @@
 .hover-tomato:hover {
   background-color: tomato;
 }
+.hover-violet:hover {
+  background-color: violet;
+}
+.hover-medpurple:hover {
+  background-color: mediumpurple;
+}
+.hover-lightgray:hover {
+  background-color: lightgray;
+}
+.hover-dimgray:hover {
+  background-color: dimgray;
+}
+.hover-sienna:hover {
+  background-color: sienna;
+}
+.hover-silver:hover {
+  background-color: silver;
+}
+.hover-medspringgreen:hover {
+  background-color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
