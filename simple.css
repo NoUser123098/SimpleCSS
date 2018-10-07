@@ -1267,17 +1267,29 @@
   -webkit-filter: blur(5px);
   filter: blur(5px);
 }
-.border-solid-top-blue {
-  border-top: 1px solid blue;
+.hover-blue:hover {
+  background-color: blue;
 }
-.border-solid-right-blue {
-  border-right: 1px solid blue;
+.hover-dgblue:hover {
+  background-color: dodgerblue;
 }
-.border-solid-left-blue {
-  border-left: 1px solid blue;
+.hover-aqua:hover {
+  background-color: aqua;
 }
-.border-solid-bottom-blue {
-  border-bottom: 1px solid blue;
+.hover-red:hover {
+  background-color: red;
+}
+.hover-crimson:hover {
+  background-color: crimson;
+}
+.hover-pink:hover {
+  background-color: pink;
+}
+.hover-hotpink:hover {
+  background-color: hotpink;
+}
+.hover-deeppink:hover {
+  background-color: deeppink;
 }
 /*
 Notes to Self:
