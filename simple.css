@@ -636,11 +636,11 @@
 .hnav-blue a:hover {
   background-color: #000099;
 }
-.hnav-dgblue {
+.hnav-dodgerblue {
   overflow: hidden;
   background-color: dodgerblue;
 }
-.hnav-dgblue a {
+.hnav-dodgerblue a {
   float: left;
   color: black;
   text-align: center;
@@ -648,7 +648,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-dgblue a:hover {
+.hnav-dodgerblue a:hover {
   background-color: #004d99;
 }
 .hnav-aqua {
@@ -987,7 +987,7 @@
   cursor: pointer;
   border-radius: 16px;
 }
-.pillbtn-dgblue {
+.pillbtn-dodgerblue {
   background-color: dodgerblue;
   border: none;
   color: black;
@@ -1270,7 +1270,7 @@
 .hover-blue:hover {
   background-color: blue;
 }
-.hover-dgblue:hover {
+.hover-dodgerblue:hover {
   background-color: dodgerblue;
 }
 .hover-aqua:hover {
