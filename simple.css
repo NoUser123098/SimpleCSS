@@ -100,6 +100,27 @@
 .background-tomato {
   background-color: tomato;
 }
+.background-violet {
+  background-color: violet;
+}
+.background-medpurple {
+  background-color: mediumpurple;
+}
+.background-lightgray {
+  background-color: lightgray;
+}
+.background-dimgray {
+  background-color: dimgray;
+}
+.background-sienna {
+  background-color: sienna;
+}
+.background-silver {
+  background-color: silver;
+}
+.background-medspringgreen {
+  background-color: mediumspringgreen;
+}
 .text-blue {
   color: blue;
 }
@@ -168,6 +189,27 @@
 }
 .text-tomato {
   color: tomato;
+}
+.text-violet {
+  color: violet;
+}
+.text-medpurple {
+  color: mediumpurple;
+}
+.text-lightgray {
+  color: lightgray;
+}
+.text-dimgray {
+  color: dimgray;
+}
+.text-sienna {
+  color: sienna;
+}
+.text-silver {
+  color: silver;
+}
+.text-medspringgreen {
+  color: mediumspringgreen;
 }
 .font-scp {
   font-family: "Source Code Pro";
