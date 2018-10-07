@@ -1267,6 +1267,18 @@
   -webkit-filter: blur(5px);
   filter: blur(5px);
 }
+.border-solid-top-blue {
+  border-top: 1px solid blue;
+}
+.border-solid-right-blue {
+  border-right: 1px solid blue;
+}
+.border-solid-left-blue {
+  border-left: 1px solid blue;
+}
+.border-solid-bottom-blue {
+  border-bottom: 1px solid blue;
+}
 /*
 Notes to Self:
 
