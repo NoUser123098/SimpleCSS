@@ -667,7 +667,7 @@
   overflow: hidden;
   background-color: blue;
 }
-.hnav-blue a {
+.hnav-blue a, .hnavs-blue a {
   float: left;
   color: white;
   text-align: center;
@@ -675,14 +675,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-blue a:hover {
+.hnav-blue a:hover, .hnavs-blue a:hover {
   background-color: #000099;
 }
 .hnav-dodgerblue {
   overflow: hidden;
   background-color: dodgerblue;
 }
-.hnav-dodgerblue a {
+.hnav-dodgerblue a, .hnav-dodgerblue a {
   float: left;
   color: black;
   text-align: center;
@@ -690,14 +690,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-dodgerblue a:hover {
+.hnav-dodgerblue a:hover, .hnavs-dodgerblue a:hover {
   background-color: #004d99;
 }
 .hnav-aqua {
   overflow: hidden;
   background-color: aqua;
 }
-.hnav-aqua a {
+.hnav-aqua a, .hnavs-aqua a {
   float: left;
   color: black;
   text-align: center;
@@ -705,14 +705,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-aqua a:hover {
+.hnav-aqua a:hover, .hnavs-aqua {
   background-color: #009999;
 }
 .hnav-red {
   overflow: hidden;
   background-color: red;
 }
-.hnav-red a {
+.hnav-red a, .hnavs-red a {
   float: left;
   color: white;
   text-align: center;
@@ -720,14 +720,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-red a:hover {
+.hnav-red a:hover, .hnavs-red a:hover {
   background-color: #990000;
 }
 .hnav-crimson {
   overflow: hidden;
   background-color: crimson;
 }
-.hnav-crimson a {
+.hnav-crimson a, .hnavs-crimson a {
   float: left;
   color: white;
   text-align: center;
@@ -735,7 +735,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-crimson a:hover {
+.hnav-crimson a:hover, .hnavs-crimson a:hover {
   background-color: #8c0d26;
 }
 .hnav-pink {
@@ -817,7 +817,7 @@
   overflow: hidden;
   background-color: green;
 }
-.hnav-green a {
+.hnav-green a, .hnavs-green a {
   float: left;
   color: white;
   text-align: center;
@@ -825,14 +825,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-green a:hover {
+.hnav-green a:hover, .hnavs-green a:hover {
   background-color: #003300;
 }
 .hnav-lime {
   overflow: hidden;
   background-color: lime;
 }
-.hnav-lime a {
+.hnav-lime a, .hnavs-lime a {
   float: left;
   color: black;
   text-align: center;
@@ -840,14 +840,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-lime a:hover {
+.hnav-lime a:hover, .hnavs-lime a:hover {
   background-color: #009900;
 }
 .hnav-springgreen {
   overflow: hidden;
   background-color: springgreen;
 }
-.hnav-springgreen a {
+.hnav-springgreen a, .hnavs-springgreen a {
   float: left;
   color: black;
   text-align: center;
@@ -855,14 +855,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-springgreen a:hover {
+.hnav-springgreen a:hover, .hnavs-springgreen a:hover {
   background-color: #00994d;
 }
 .hnav-gray {
   overflow: hidden;
   background-color: gray;
 }
-.hnav-gray a {
+.hnav-gray a, .hnavs-gray a {
   float: left;
   color: white;
   text-align: center;
@@ -870,14 +870,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-gray a:hover {
+.hnav-gray a:hover, .hnavs-gray a:hover {
   background-color: #4d4d4d;
 }
 .hnav-yellow {
   overflow: hidden;
   background-color: yellow;
 }
-.hnav-yellow a {
+.hnav-yellow a, .hnavs-yellow a {
   float: left;
   color: black;
   text-align: center;
@@ -885,14 +885,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-yellow a:hover {
+.hnav-yellow a:hover, .hnavs-yellow a:hover {
   background-color: #999900;
 }
 .hnav-orange {
   overflow: hidden;
   background-color: orange;
 }
-.hnav-orange a {
+.hnav-orange a, .hnavs-orange a {
   float: left;
   color: black;
   text-align: center;
@@ -900,14 +900,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-orange a:hover {
+.hnav-orange a:hover, .hnavs-orange a:hover {
   background-color: #996300;
 }
 .hnav-teal {
   overflow: hidden;
   background-color: teal;
 }
-.hnav-teal a {
+.hnav-teal a, .hnavs-teal a {
   float: left;
   color: white;
   text-align: center;
@@ -915,14 +915,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-teal a:hover {
+.hnav-teal a:hover, .hnavs-teal a:hover {
   background-color: #003333;
 }
 .hnav-garnet {
   overflow: hidden;
   background-color: #862633;
 }
-.hnav-garnet a {
+.hnav-garnet a, .hnavs-garnet a {
   float: left;
   color: white;
   text-align: center;
@@ -930,14 +930,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-garnet a:hover {
+.hnav-garnet a:hover, .hnavs-garnet a:hover {
   background-color: #50161e;
 }
 .hnav-darkblue {
   overflow: hidden;
   background-color: darkblue;
 }
-.hnav-darkblue a {
+.hnav-darkblue a, .hnavs-darkblue a {
   float: left;
   color: white;
   text-align: center;
@@ -945,14 +945,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-darkblue a:hover {
+.hnav-darkblue a:hover, .hnavs-darkblue a:hover {
   background-color: #00004d;
 }
 .hnav-darkred {
   overflow: hidden;
   background-color: darkred;
 }
-.hnav-darkred a {
+.hnav-darkred a, .hnavs-darkred a {
   float: left;
   color: white;
   text-align: center;
@@ -960,14 +960,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-darkred a:hover {
+.hnav-darkred a:hover, .hnavs-darkred a:hover {
   background-color: #4d0000;
 }
 .hnav-gold {
   overflow: hidden;
   background-color: gold;
 }
-.hnav-gold a {
+.hnav-gold a, .hnavs-gold a {
   float: left;
   color: black;
   text-align: center;
@@ -975,14 +975,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-gold a:hover {
+.hnav-gold a:hover, .hnavs-gold a:hover {
   background-color: #998200;
 }
 .hnav-tan {
   overflow: hidden;
   background-color: tan;
 }
-.hnav-tan a {
+.hnav-tan a, .hnavs-tan a {
   float: left;
   color: black;
   text-align: center;
@@ -990,14 +990,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-tan a:hover {
+.hnav-tan a:hover, .hnavs-tan a:hover {
   background-color: #5c4324;
 }
 .hnav-tomato {
   overflow: hidden;
   background-color: tomato;
 }
-.hnav-tomato a {
+.hnav-tomato a, .hnavs-tomato a {
   float: left;
   color: black;
   text-align: center;
@@ -1005,7 +1005,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-tomato a:hover {
+.hnav-tomato a:hover, .hnavs-tomato a:hover {
   background-color: #801300;
 }
 .round-10 {
@@ -1398,6 +1398,27 @@
 }
 .hover-medspringgreen:hover {
   background-color: mediumspringgreen;
+}
+.hnavs-blue {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: blue;
+}
+.hnavs-dodgerblue {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: dodgerblue;
+}
+.hnavs-aqua {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: aqua;
 }
 /*
 Notes to Self:
