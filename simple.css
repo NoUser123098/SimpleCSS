@@ -1420,6 +1420,48 @@
   overflow: hidden;
   background-color: aqua;
 }
+.hnavs-red {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: red;
+}
+.hnavs-crimson {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: crimson;
+}
+.hnavs-pink {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: pink;
+}
+.hnavs-hotpink {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: hotpink;
+}
+.hnavs-deeppink {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: deeppink;
+}
+.hnavs-magenta {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: magenta;
+}
 /*
 Notes to Self:
 
