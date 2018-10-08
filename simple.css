@@ -742,7 +742,7 @@
   overflow: hidden;
   background-color: pink;
 }
-.hnav-pink a {
+.hnav-pink a, .hnavs-pink a {
   float: left;
   color: black;
   text-align: center;
@@ -750,14 +750,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-pink a:hover {
+.hnav-pink a:hover, .hnavs-pink a:hover {
   background-color: #ff8095;
 }
 .hnav-hotpink {
   overflow: hidden;
   background-color: hotpink;
 }
-.hnav-hotpink a {
+.hnav-hotpink a, .hnavs-hotpink a {
   float: left;
   color: black;
   text-align: center;
@@ -765,14 +765,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-hotpink a:hover {
+.hnav-hotpink a:hover, .hnavs-hotpink a:hover {
   background-color: #cc0066;
 }
 .hnav-deeppink {
   overflow: hidden;
   background-color: deeppink;
 }
-.hnav-deeppink a {
+.hnav-deeppink a, .hnavs-deeppink a {
   float: left;
   color: white;
   text-align: center;
@@ -780,14 +780,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-deeppink a:hover {
+.hnav-deeppink a:hover, .hnavs-deeppink a:hover {
   background-color: #990052;
 }
 .hnav-magenta {
   overflow: hidden;
   background-color: magenta;
 }
-.hnav-magenta a {
+.hnav-magenta a, .hnavs-magenta a {
   float: left;
   color: white;
   text-align: center;
@@ -795,14 +795,14 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-magenta a:hover {
+.hnav-magenta a:hover, .hnavs-magenta a:hover {
   background-color: #990099;
 }
 .hnav-purple {
   overflow: hidden;
   background-color: purple;
 }
-.hnav-purple a {
+.hnav-purple a, .hnavs-purple a {
   float: left;
   color: white;
   text-align: center;
@@ -810,7 +810,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-purple a:hover {
+.hnav-purple a:hover, .hnavs-purple a:hover {
   background-color: #4d004d;
 }
 .hnav-green {
