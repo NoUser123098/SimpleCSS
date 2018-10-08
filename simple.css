@@ -429,7 +429,42 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
-.card-blue:hover, .card-dodgerblue:hover, .card-aqua:hover, .card-red:hover. .card-crimson:hover, .card-pink:hover, .card-hotpink:hover, .card-deeppink:hover, .card-magenta:hover, .card-purple:hover, .card-green:hover, .card-lime:hover, .card-springgreen:hover, .card-yellow:hover, .card-orange:hover, .card-gray:hover, .card-teal:hover, .card-garnet:hover, .card-darkblue:hover, .card-darkred:hover, .card-gold:hover. .card-tan:hover, .card-tomato:hover {
+.card-violet {
+  background-color: violet;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-medpurple {
+  background-color: mediumpurple;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-lightgray {
+  background-color: lightgray;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-dimgray {
+  background-color: dimgray;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-sienna {
+  background-color: sienna;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-silver {
+  background-color: silver;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-medspringgreen {
+  background-color: mediumspringgreen;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-blue:hover, .card-dodgerblue:hover, .card-aqua:hover, .card-red:hover. .card-crimson:hover, .card-pink:hover, .card-hotpink:hover, .card-deeppink:hover, .card-magenta:hover, .card-purple:hover, .card-green:hover, .card-lime:hover, .card-springgreen:hover, .card-yellow:hover, .card-orange:hover, .card-gray:hover, .card-teal:hover, .card-garnet:hover, .card-darkblue:hover, .card-darkred:hover, .card-gold:hover. .card-tan:hover, .card-tomato:hover, .card-violet:hover, .card-medpurple:hover, .card-lightgray:hover, .card-dimgray:hover, .card-sienna:hover, .card-silver:hover, .card-medspringgreen:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .solid-black {
@@ -504,6 +539,27 @@
 .solid-tomato {
   border: 1px solid tomato;
 }
+.solid-violet {
+  border: 1px solid violet;
+}
+.solid-medpurple {
+  border: 1px solid mediumpurple;
+}
+.solid-lightgray {
+  border: 1px solid lightgray;
+}
+.solid-dimgray {
+  border: 1px solid dimgray;
+}
+.solid-sienna {
+  border: 1px solid sienna;
+}
+.solid-silver {
+  border: 1px solid silver;
+}
+.solid-medspringgreen {
+  border: 1px solid mediumspringgreen;
+}
 .dotted-black {
   border: 1px dotted black;
 }
@@ -576,6 +632,27 @@
 .dotted-tomato {
   border: 1px dotted tomato;
 }
+.dotted-violet {
+  border: 1px dotted violet;
+}
+.dotted-medpurple {
+  border: 1px dotted mediumpurple;
+}
+.dotted-lightgray {
+  border: 1px dotted lightgray;
+}
+.dotted-dimgray {
+  border: 1px dotted dimgray;
+}
+.dotted-sienna {
+  border: 1px dotted sienna;
+}
+.dotted-silver {
+  border: 1px dotted silver;
+}
+.dotted-medspringgreen {
+  border: 1px dotted mediumspringgreen;
+}
 .dashed-black {
   border: 1px dashed black;
 }
@@ -647,6 +724,27 @@
 }
 .dashed-tomato {
   border: 1px dashed tomato;
+}
+.dashed-violet {
+  border: 1px dashed violet;
+}
+.dashed-medpurple {
+  border: 1px dashed mediumpurple;
+}
+.dashed-lightgray {
+  border: 1px dashed lightgray;
+}
+.dashed-dimgray {
+  border: 1px dashed dimgray;
+}
+.dashed-sienna {
+  border: 1px dashed sienna;
+}
+.dashed-silver {
+  border: 1px dashed silver;
+}
+.dashed-medspringgreen {
+  border: 1px solid mediumspringgreen;
 }
 .dec-b {
   font-weight: bold;
