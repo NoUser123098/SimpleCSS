@@ -1462,6 +1462,34 @@
   overflow: hidden;
   background-color: magenta;
 }
+.hnavs-purple {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: purple;
+}
+.hnavs-green {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: green;
+}
+.hnavs-lime {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: lime;
+}
+.hnavs-springgreen {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: springgreen;
+}
 /*
 Notes to Self:
 
