@@ -1490,6 +1490,76 @@
   overflow: hidden;
   background-color: springgreen;
 }
+.hnavs-gray {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: gray;
+}
+.hnavs-yellow {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: yellow;
+}
+.hnavs-orange {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: orange;
+}
+.hnavs-teal {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: teal;
+}
+.hnavs-garnet {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: #862633;
+}
+.hnavs-darkblue {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: darkblue;
+}
+.hnavs-darkred {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: darkred;
+}
+.hnavs-gold {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: gold;
+}
+.hnavs-tan {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: tan;
+}
+.hnavs-tomato {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: tomato;
+}
 /*
 Notes to Self:
 
