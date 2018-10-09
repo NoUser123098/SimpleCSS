@@ -2226,6 +2226,114 @@
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
 }
+.u-dashed-blue {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: blue;
+  text-decoration-color: blue;
+}
+.u-dashed-dodgerblue {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: dodgerblue;
+  text-decoration-color: dodgerblue;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
+.u-dashed-springgreen {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: springgreen;
+  text-decoration-color: springgreen;
+}
+.u-dashed-gray {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: gray;
+  text-decoration-color: gray;
+}
+.u-dashed-yellow {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: yellow;
+  text-decoration-color: yellow;
+}
+.u-dashed-orange {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: orange;
+  text-decoration-color: orange;
+}
+.u-dashed-teal {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: teal;
+  text-decoration-color: teal;
+}
+.u-dashed-garnet {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: #862633;
+  text-decoration-color: #862633;
+}
 /*
 Notes to Self:
 
@@ -2264,16 +2372,9 @@ MediumSpringGreen
 
 Copy/Paste:
 
-.u-dotted- {
-  text-decoration: underline;
-  text-decoration-style: dotted;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
-}
-
 .u-dashed- {
   text-decoration: underline;
-  text-decoration-style: ;
+  text-decoration-style: dashed;
   -webkit-text-decoration-color: ;
   text-decoration-color: ;
 }
