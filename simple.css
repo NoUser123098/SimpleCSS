@@ -2238,65 +2238,65 @@
   -webkit-text-decoration-color: dodgerblue;
   text-decoration-color: dodgerblue;
 }
-.u-dashed- {
+.u-dashed-aqua {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: aqua;
+  text-decoration-color: aqua;
 }
-.u-dashed- {
+.u-dashed-red {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
 }
-.u-dashed- {
+.u-dashed-crimson {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: crimson;
+  text-decoration-color: crimson;
 }
-.u-dashed- {
+.u-dashed-pink {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: pink;
+  text-decoration-color: pink;
 }
-.u-dashed- {
+.u-dashed-hotpink {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: hotpink;
+  text-decoration-color: hotpink;
 }
-.u-dashed- {
+.u-dashed-deeppink {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: deeppink;
+  text-decoration-color: deeppink;
 }
-.u-dashed- {
+.u-dashed-magenta {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: magenta;
+  text-decoration-color: magenta;
 }
-.u-dashed- {
+.u-dashed-purple {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
 }
-.u-dashed- {
+.u-dashed-green {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: green;
+  text-decoration-color: green;
 }
-.u-dashed- {
+.u-dashed-lime {
   text-decoration: underline;
   text-decoration-style: dashed;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
+  -webkit-text-decoration-color: lime;
+  text-decoration-color: lime;
 }
 .u-dashed-springgreen {
   text-decoration: underline;
@@ -2333,6 +2333,78 @@
   text-decoration-style: dashed;
   -webkit-text-decoration-color: #862633;
   text-decoration-color: #862633;
+}
+.u-dashed-darkblue {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+}
+.u-dashed-darkred {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+}
+.u-dashed-gold {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+}
+.u-dashed-tan {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+}
+.u-dashed-tomato {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+}
+.u-dashed-violet {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+}
+.u-dashed-medpurple {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+}
+.u-dashed-lightgray {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+}
+.u-dashed-dimgray {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+}
+.u-dashed-sienna {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+}
+.u-dashed-silver {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+}
+.u-dashed-medspringgreen {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
 }
 /*
 Notes to Self:
