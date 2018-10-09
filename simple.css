@@ -1896,6 +1896,156 @@
   overflow: hidden;
   background-color: mediumspringgreen;
 }
+.u-solid-blue {
+  text-decoration: underline;
+  -webkit-text-decoration-color: blue;
+  text-decoration-color: blue;
+}
+.u-solid-dodgerblue {
+  text-decoration: underline;
+  -webkit-text-decoration-color: dodgerblue;
+  text-decoration-color: dodgerblue;
+}
+.u-solid-aqua {
+  text-decoration: underline;
+  -webkit-text-decoration-color: aqua;
+  text-decoration-color: aqua;
+}
+.u-solid-red {
+  text-decoration: underline;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+}
+.u-solid-crimson {
+  text-decoration: underline;
+  -webkit-text-decoration-color: crimson;
+  text-decoration-color: crimson;
+}
+.u-solid-pink {
+  text-decoration: underline;
+  -webkit-text-decoration-color: pink;
+  text-decoration-color: pink;
+}
+.u-solid-hotpink {
+  text-decoration: underline;
+  -webkit-text-decoration-color: hotpink;
+  text-decoration-color: hotpink;
+}
+.u-solid-deeppink {
+  text-decoration: underline;
+  -webkit-text-decoration-color: deeppink;
+  text-decoration-color: deeppink;
+}
+.u-solid-magenta {
+  text-decoration: underline;
+  -webkit-text-decoration-color: magenta;
+  text-decoration-color: magenta;
+}
+.u-solid-purple {
+  text-decoration: underline;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
+}
+.u-solid-green {
+  text-decoration: underline;
+  -webkit-text-decoration-color: green;
+  text-decoration-color: green;
+}
+.u-solid-lime {
+  text-decoration: underline;
+  -webkit-text-decoration-color: lime;
+  text-decoration-color: lime;
+}
+.u-solid-springgreen {
+  text-decoration: underline;
+  -webkit-text-decoration-color: springgreen;
+  text-decoration-color: springgreen;
+}
+.u-solid-gray {
+  text-decoration: underline;
+  -webkit-text-decoration-color: gray;
+  text-decoration-color: gray;
+}
+.u-solid-yellow {
+  text-decoration: underline;
+  -webkit-text-decoration-color: yellow;
+  text-decoration-color: yellow;
+}
+.u-solid-orange {
+  text-decoration: underline;
+  -webkit-text-decoration-color: orange;
+  text-decoration-color: orange;
+}
+.u-solid-teal {
+  text-decoration: underline;
+  -webkit-text-decoration-color: teal;
+  text-decoration-color: teal;
+}
+.u-solid-garnet {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #862633;
+  text-decoration-color: #862633;
+}
+.u-solid-darkblue {
+  text-decoration: underline;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+}
+.u-solid-darkred {
+  text-decoration: underline;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+}
+.u-solid-gold {
+  text-decoration: underline;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+}
+.u-solid-tan {
+  text-decoration: underline;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+}
+.u-solid-tomato {
+  text-decoration: underline;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+}
+.u-solid-violet {
+  text-decoration: underline;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+}
+.u-solid-medpurple {
+  text-decoration: underline;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+}
+.u-solid-lightgray {
+  text-decoration: underline;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+}
+.u-solid-dimgray {
+  text-decoration: underline;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+}
+.u-solid-sienna {
+  text-decoration: underline;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+}
+.u-solid-silver {
+  text-decoration: underline;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+}
+.u-solid-medspringgreen {
+  text-decoration: underline;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
@@ -1934,19 +2084,5 @@ MediumSpringGreen
 
 Copy/Paste:
 
-.hnav- {
-  overflow: hidden;
-  background-color: ;
-}
-.hnav- a, .hnavs- a {
-  float: left;
-  color: ;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.hnav- a:hover, .hnavs- a:hover {
-  background-color: #;
-}
+
 */
