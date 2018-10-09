@@ -2046,6 +2046,30 @@
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
 }
+.u-dotted-blue {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: blue;
+  text-decoration-color: blue;
+}
+.u-dotted-dodgerblue {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: dodgerblue;
+  text-decoration-color: dodgerblue;
+}
+.u-dotted-aqua {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: aqua;
+  text-decoration-color: aqua;
+}
+.u-dotted-red {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+}
 /*
 Notes to Self:
 
