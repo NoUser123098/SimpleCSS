@@ -1106,6 +1106,111 @@
 .hnav-tomato a:hover, .hnavs-tomato a:hover {
   background-color: #801300;
 }
+.hnav-violet {
+  overflow: hidden;
+  background-color: violet;
+}
+.hnav-violet a, .hnavs-violet a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-violet a:hover, .hnavs-violet a:hover {
+  background-color: #e01fe0;
+}
+.hnav-medpurple {
+  overflow: hidden;
+  background-color: mediumpurple;
+}
+.hnav-medpurple a, .hnavs-medpurple a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-medpurple a:hover, .hnavs-medpurple a:hover {
+  background-color: #6633cc;
+}
+.hnav-lightgray {
+  overflow: hidden;
+  background-color: lightgray;
+}
+.hnav-lightgray a, .hnavs-lightgray a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-lightgray a:hover, .hnavs-lightgray a:hover {
+  background-color: #b3b3b3;
+}
+.hnav-dimgray {
+  overflow: hidden;
+  background-color: dimgray;
+}
+.hnav-dimgray a, .hnavs-dimgray a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-dimgray a:hover, .hnavs-dimgray a:hover {
+  background-color: #4d4d4d;
+}
+.hnav-sienna {
+  overflow: hidden;
+  background-color: sienna;
+}
+.hnav-sienna a, .hnavs-sienna a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-sienna a:hover, .hnavs-sienna a:hover {
+  background-color: #63331c;
+}
+.hnav-silver {
+  overflow: hidden;
+  background-color: silver;
+}
+.hnav-silver a, .hnavs-silver a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-silver a:hover, .hnavs-silver a:hover {
+  background-color: #999;
+}
+.hnav-medspringgreen {
+  overflow: hidden;
+  background-color: mediumspringgreen;
+}
+.hnav-medspringgreen a, .hnavs-medspringgreen a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav-medspringgreen a:hover, .hnavs-medspringgreen a:hover {
+  background-color: #00b36e;
+}
 .round-10 {
   border-radius: 10px;
 }
@@ -1742,6 +1847,55 @@
   overflow: hidden;
   background-color: tomato;
 }
+.hnavs-violet {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: violet;
+}
+.hnavs-medpurple {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: mediumpurple;
+}
+.hnavs-lightgray {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: lightgray;
+}
+.hnavs-dimgray {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: dimgray;
+}
+.hnavs-sienna {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: sienna;
+}
+.hnavs-silver {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: silver;
+}
+.hnavs-medspringgreen {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
@@ -1780,5 +1934,19 @@ MediumSpringGreen
 
 Copy/Paste:
 
-
+.hnav- {
+  overflow: hidden;
+  background-color: ;
+}
+.hnav- a, .hnavs- a {
+  float: left;
+  color: ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.hnav- a:hover, .hnavs- a:hover {
+  background-color: #;
+}
 */
