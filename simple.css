@@ -2070,6 +2070,162 @@
   -webkit-text-decoration-color: red;
   text-decoration-color: red;
 }
+.u-dotted-crimson {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: crimson;
+  text-decoration-color: crimson;
+}
+.u-dotted-pink {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: pink;
+  text-decoration-color: pink;
+}
+.u-dotted-hotpink {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: hotpink;
+  text-decoration-color: hotpink;
+}
+.u-dotted-deeppink {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: deeppink;
+  text-decoration-color: deeppink;
+}
+.u-dotted-magenta {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: magenta;
+  text-decoration-color: magenta;
+}
+.u-dotted-purple {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
+}
+.u-dotted-green {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: green;
+  text-decoration-color: green;
+}
+.u-dotted-lime {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: lime;
+  text-decoration-color: lime;
+}
+.u-dotted-springgreen {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: springgreen;
+  text-decoration-color: springgreen;
+}
+.u-dotted-gray {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: gray;
+  text-decoration-color: gray;
+}
+.u-dotted-yellow {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: yellow;
+  text-decoration-color: yellow;
+}
+.u-dotted-orange {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: orange;
+  text-decoration-color: orange;
+}
+.u-dotted-teal {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: teal;
+  text-decoration-color: teal;
+}
+.u-dotted-garnet {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: #862633;
+  text-decoration-color: #862633;
+}
+.u-dotted-darkblue {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+}
+.u-dotted-darkred {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+}
+.u-dotted-gold {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+}
+.u-dotted-tan {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+}
+.u-dotted-tomato {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+}
+.u-dotted-violet {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+}
+.u-dotted-medpurple {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+}
+.u-dotted-lightgray {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+}
+.u-dotted-dimgray {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+}
+.u-dotted-sienna {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+}
+.u-dotted-silver {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+}
+.u-dotted-medspringgreen {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
@@ -2108,5 +2264,17 @@ MediumSpringGreen
 
 Copy/Paste:
 
+.u-dotted- {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
 
+.u-dashed- {
+  text-decoration: underline;
+  text-decoration-style: ;
+  -webkit-text-decoration-color: ;
+  text-decoration-color: ;
+}
 */
