@@ -2538,6 +2538,78 @@
   text-decoration-color: #862633;
   text-decoration-style: solid;
 }
+.o-solid-darkblue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+  text-decoration-style: solid;
+}
+.o-solid-darkred {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+  text-decoration-style: solid;
+}
+.o-solid-gold {
+  text-decoration: overline;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+  text-decoration-style: solid;
+}
+.o-solid-tan {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+  text-decoration-style: solid;
+}
+.o-solid-tomato {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+  text-decoration-style: solid;
+}
+.o-solid-violet {
+  text-decoration: overline;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+  text-decoration-style: solid;
+}
+.o-solid-medpurple {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+  text-decoration-style: solid;
+}
+.o-solid-lightgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+  text-decoration-style: solid;
+}
+.o-solid-dimgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+  text-decoration-style: solid;
+}
+.o-solid-sienna {
+  text-decoration: overline;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+  text-decoration-style: solid;
+}
+.o-solid-silver {
+  text-decoration: overline;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+  text-decoration-style: solid;
+}
+.o-solid-medspringgreen {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
+  text-decoration-style: solid;
+}
 /*
 Notes to Self:
 
@@ -2579,13 +2651,6 @@ MediumSpringGreen
 ---------
 
 Copy/Paste:
-
-.o-solid- {
-  text-decoration: overline;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
-  text-decoration-style: solid;
-}
 
 .o-dotted- {
   text-decoration: overline;
