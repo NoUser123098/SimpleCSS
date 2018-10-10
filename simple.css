@@ -2610,14 +2610,56 @@
   text-decoration-color: mediumspringgreen;
   text-decoration-style: solid;
 }
+.o-dotted-blue-1 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #3333ff;
+  text-decoration-color: #3333ff;
+  text-decoration-style: dotted;
+}
+.o-dotted-blue-2 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #1a1aff;
+  text-decoration-color: #1a1aff;
+  text-decoration-style: dotted;
+}
+.o-dotted-blue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: blue;
+  text-decoration-color: blue;
+  text-decoration-style: dotted;
+}
+.o-dotted-blue-3 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #0000e6;
+  text-decoration-color: #0000e6;
+  text-decoration-style: dotted;
+}
+.o-dotted-blue-4 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #0000cc;
+  text-decoration-color: #0000cc;
+  text-decoration-style: dotted;
+}
+.o-dotted-dodgerblue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: dodgerblue;
+  text-decoration-color: dodgerblue;
+  text-decoration-style: dotted;
+}
+.o-dotted-aqua {
+  text-decoration: overline;
+  -webkit-text-decoration-color: aqua;
+  text-decoration-color: aqua;
+  text-decoration-style: dotted;
+}
 /*
 Notes to Self:
 
-Blue 1
-Blue 2
+Blue 1 - #3333ff
+Blue 2 - #1a1aff
 Blue
-Blue 3
-Blue 4
+Blue 3 - #0000e6
+Blue 4 - #0000cc
 DodgerBlue
 Aqua
 Red
