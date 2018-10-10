@@ -2652,6 +2652,372 @@
   text-decoration-color: aqua;
   text-decoration-style: dotted;
 }
+.o-dotted-red {
+  text-decoration: overline;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+  text-decoration-style: dotted;
+}
+.o-dotted-crimson {
+  text-decoration: overline;
+  -webkit-text-decoration-color: crimson;
+  text-decoration-color: crimson;
+  text-decoration-style: dotted;
+}
+.o-dotted-pink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: pink;
+  text-decoration-color: pink;
+  text-decoration-style: dotted;
+}
+.o-dotted-hotpink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: hotpink;
+  text-decoration-color: hotpink;
+  text-decoration-style: dotted;
+}
+.o-dotted-deeppink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: deeppink;
+  text-decoration-color: deeppink;
+  text-decoration-style: dotted;
+}
+.o-dotted-magenta {
+  text-decoration: overline;
+  -webkit-text-decoration-color: magenta;
+  text-decoration-color: magenta;
+  text-decoration-style: dotted;
+}
+.o-dotted-purple {
+  text-decoration: overline;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
+  text-decoration-style: dotted;
+}
+.o-dotted-green {
+  text-decoration: overline;
+  -webkit-text-decoration-color: green;
+  text-decoration-color: green;
+  text-decoration-style: dotted;
+}
+.o-dotted-lime {
+  text-decoration: overline;
+  -webkit-text-decoration-color: lime;
+  text-decoration-color: lime;
+  text-decoration-style: dotted;
+}
+.o-dotted-springgreen {
+  text-decoration: overline;
+  -webkit-text-decoration-color: springgreen;
+  text-decoration-color: springgreen;
+  text-decoration-style: dotted;
+}
+.o-dotted-gray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: gray;
+  text-decoration-color: gray;
+  text-decoration-style: dotted;
+}
+.o-dotted-yellow {
+  text-decoration: overline;
+  -webkit-text-decoration-color: yellow;
+  text-decoration-color: yellow;
+  text-decoration-style: dotted;
+}
+.o-dotted-orange {
+  text-decoration: overline;
+  -webkit-text-decoration-color: orange;
+  text-decoration-color: orange;
+  text-decoration-style: dotted;
+}
+.o-dotted-teal {
+  text-decoration: overline;
+  -webkit-text-decoration-color: teal;
+  text-decoration-color: teal;
+  text-decoration-style: dotted;
+}
+.o-dotted-garnet {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #862633;
+  text-decoration-color: #862633;
+  text-decoration-style: dotted;
+}
+.o-dotted-darkblue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+  text-decoration-style: dotted;
+}
+.o-dotted-darkred {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+  text-decoration-style: dotted;
+}
+.o-dotted-gold {
+  text-decoration: overline;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+  text-decoration-style: dotted;
+}
+.o-dotted-tan {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+  text-decoration-style: dotted;
+}
+.o-dotted-tomato {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+  text-decoration-style: dotted;
+}
+.o-dotted-violet {
+  text-decoration: overline;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+  text-decoration-style: dotted;
+}
+.o-dotted-medpurple {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+  text-decoration-style: dotted;
+}
+.o-dotted-lightgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+  text-decoration-style: dotted;
+}
+.o-dotted-dimgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+  text-decoration-style: dotted;
+}
+.o-dotted-sienna {
+  text-decoration: overline;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+  text-decoration-style: dotted;
+}
+.o-dotted-silver {
+  text-decoration: overline;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+  text-decoration-style: dotted;
+}
+.o-dotted-medspringrreen {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
+  text-decoration-style: dotted;
+}
+.o-dashed-blue-1 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #3333ff;
+  text-decoration-color: #3333ff;
+  text-decoration-style: dashed;
+}
+.o-dashed-blue-2 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #1a1aff;
+  text-decoration-color: #1a1aff;
+  text-decoration-style: dashed;
+}
+.o-dashed-blue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: blue;
+  text-decoration-color: blue;
+  text-decoration-style: dashed;
+}
+.o-dashed-blue-3 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #0000e6;
+  text-decoration-color: #0000e6;
+  text-decoration-style: dashed;
+}
+.o-dashed-blue-4 {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #0000cc;
+  text-decoration-color: #0000cc;
+  text-decoration-style: dashed;
+}
+.o-dashed-dodgerblue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: dodgerblue;
+  text-decoration-color: dodgerblue;
+  text-decoration-style: dashed;
+}
+.o-dashed-aqua {
+  text-decoration: overline;
+  -webkit-text-decoration-color: aqua;
+  text-decoration-color: aqua;
+  text-decoration-style: dashed;
+}
+.o-dashed-red {
+  text-decoration: overline;
+  -webkit-text-decoration-color: red;
+  text-decoration-color: red;
+  text-decoration-style: dashed;
+}
+.o-dashed-crimson {
+  text-decoration: overline;
+  -webkit-text-decoration-color: crimson;
+  text-decoration-color: crimson;
+  text-decoration-style: dashed;
+}
+.o-dashed-pink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: pink;
+  text-decoration-color: pink;
+  text-decoration-style: dashed;
+}
+.o-dashed-hotpink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: hotpink;
+  text-decoration-color: hotpink;
+  text-decoration-style: dashed;
+}
+.o-dashed-deeppink {
+  text-decoration: overline;
+  -webkit-text-decoration-color: deeppink;
+  text-decoration-color: deeppink;
+  text-decoration-style: dashed;
+}
+.o-dashed-magenta {
+  text-decoration: overline;
+  -webkit-text-decoration-color: magenta;
+  text-decoration-color: magenta;
+  text-decoration-style: dashed;
+}
+.o-dashed-purple {
+  text-decoration: overline;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
+  text-decoration-style: dashed;
+}
+.o-dashed-green {
+  text-decoration: overline;
+  -webkit-text-decoration-color: green;
+  text-decoration-color: green;
+  text-decoration-style: dashed;
+}
+.o-dashed-lime {
+  text-decoration: overline;
+  -webkit-text-decoration-color: lime;
+  text-decoration-color: lime;
+  text-decoration-style: dashed;
+}
+.o-dashed-springgreen {
+  text-decoration: overline;
+  -webkit-text-decoration-color: springgreen;
+  text-decoration-color: springgreen;
+  text-decoration-style: dashed;
+}
+.o-dashed-gray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: gray;
+  text-decoration-color: gray;
+  text-decoration-style: dashed;
+}
+.o-dashed-yellow {
+  text-decoration: overline;
+  -webkit-text-decoration-color: yellow;
+  text-decoration-color: yellow;
+  text-decoration-style: dashed;
+}
+.o-dashed-orange {
+  text-decoration: overline;
+  -webkit-text-decoration-color: orange;
+  text-decoration-color: orange;
+  text-decoration-style: dashed;
+}
+.o-dashed-teal {
+  text-decoration: overline;
+  -webkit-text-decoration-color: teal;
+  text-decoration-color: teal;
+  text-decoration-style: dashed;
+}
+.o-dashed-garnet {
+  text-decoration: overline;
+  -webkit-text-decoration-color: #862633;
+  text-decoration-color: #862633;
+  text-decoration-style: dashed;
+}
+.o-dashed-darkblue {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkblue;
+  text-decoration-color: darkblue;
+  text-decoration-style: dashed;
+}
+.o-dashed-darkred {
+  text-decoration: overline;
+  -webkit-text-decoration-color: darkred;
+  text-decoration-color: darkred;
+  text-decoration-style: dashed;
+}
+.o-dashed-gold {
+  text-decoration: overline;
+  -webkit-text-decoration-color: gold;
+  text-decoration-color: gold;
+  text-decoration-style: dashed;
+}
+.o-dashed-tan {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tan;
+  text-decoration-color: tan;
+  text-decoration-style: dashed;
+}
+.o-dashed-tomato {
+  text-decoration: overline;
+  -webkit-text-decoration-color: tomato;
+  text-decoration-color: tomato;
+  text-decoration-style: dashed;
+}
+.o-dashed-violet {
+  text-decoration: overline;
+  -webkit-text-decoration-color: violet;
+  text-decoration-color: violet;
+  text-decoration-style: dashed;
+}
+.o-dashed-medpurple {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumpurple;
+  text-decoration-color: mediumpurple;
+  text-decoration-style: dashed;
+}
+.o-dashed-lightgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: lightgray;
+  text-decoration-color: lightgray;
+  text-decoration-style: dashed;
+}
+.o-dashed-dimgray {
+  text-decoration: overline;
+  -webkit-text-decoration-color: dimgray;
+  text-decoration-color: dimgray;
+  text-decoration-style: dashed;
+}
+.o-dashed-sienna {
+  text-decoration: overline;
+  -webkit-text-decoration-color: sienna;
+  text-decoration-color: sienna;
+  text-decoration-style: dashed;
+}
+.o-dashed-silver {
+  text-decoration: overline;
+  -webkit-text-decoration-color: silver;
+  text-decoration-color: silver;
+  text-decoration-style: dashed;
+}
+.o-dashed-medspringgreen {
+  text-decoration: overline;
+  -webkit-text-decoration-color: mediumspringgreen;
+  text-decoration-color: mediumspringgreen;
+  text-decoration-style: dashed;
+}
 /*
 Notes to Self:
 
@@ -2694,17 +3060,5 @@ MediumSpringGreen
 
 Copy/Paste:
 
-.o-dotted- {
-  text-decoration: overline;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
-  text-decoration-style: dotted;
-}
 
-.o-dashed- {
-  text-decoration: overline;
-  -webkit-text-decoration-color: ;
-  text-decoration-color: ;
-  text-decoration-style: dashed;
-}
 */
