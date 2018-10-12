@@ -28,8 +28,20 @@
   background-attachment: fixed;
   background-position: center;
 }
+.background-blue-1 {
+  background-color: #3333ff;
+}
+.background-blue-2 {
+  background-color: #1a1aff;
+}
 .background-blue {
   background-color: blue;
+}
+.background-blue-3 {
+  background-color: #0000e6;
+}
+.background-blue-4 {
+  background-color: #0000cc;
 }
 .background-dodgerblue {
   background-color: dodgerblue;
@@ -121,8 +133,20 @@
 .background-medspringgreen {
   background-color: mediumspringgreen;
 }
+.text-blue-1 {
+  color: #3333ff;
+}
+.text-blue-2 {
+  color: #1a1aff;
+}
 .text-blue {
-  color: blue;
+ color: blue;
+}
+.text-blue-3 {
+  color: #0000e6;
+}
+.text-blue-4 {
+  color: #0000cc;
 }
 .text-dodgerblue {
   color: dodgerblue;
@@ -311,6 +335,34 @@
   border-left: 6px solid tomato;
   background-color: #ffa899;
 }
+.note-violet {
+  border-left: 6px solid violet;
+  background-color: #f9d2f9;
+}
+.note-medpurple {
+  border-left: 6px solid mediumpurple;
+  background-color: #c2adeb;
+}
+.note-lightgray {
+  border-left: 6px solid lightgray;
+  background-color: #e6e6e6;
+}
+.note-dimgray {
+  border-left: 6px solid dimgray;
+  background-color: #a6a6a6;
+}
+.note-sienna {
+  border-left: 6px solid sienna;
+  background-color: #d89374;
+}
+.note-silver {
+  border-left: 6px solid silver;
+  background-color: #f2f2f2;
+}
+.note-medspringgreen {
+  border-left: 6px solid mediumspringgreen;
+  background-color: #6dffbb;
+}
 .card-container {
   padding: 2px 16px;
 }
@@ -470,8 +522,20 @@
 .solid-black {
   border: 1px solid black;
 }
+.solid-blue-1 {
+  border: 1px solid #3333ff;
+}
+.solid-blue-2 {
+  border: 1px solid #1a1aff;
+}
 .solid-blue {
   border: 1px solid blue;
+}
+.solid-blue-3 {
+  border: 1px solid #0000e6;
+}
+.solid-blue-4 {
+  border: 1px solid #0000cc;
 }
 .solid-dodgerblue {
   border: 1px solid dodgerblue;
@@ -563,8 +627,20 @@
 .dotted-black {
   border: 1px dotted black;
 }
+.dotted-blue-1 {
+  border: 1px dotted #3333ff;
+}
+.dotted-blue-2 {
+  border: 1px dotted #1a1aff;
+}
 .dotted-blue {
   border: 1px dotted blue;
+}
+.dotted-blue-3 {
+  border: 1px dotted #0000e6;
+}
+.dotted-blue-4 {
+  border: 1px solid #0000cc;
 }
 .dotted-dodgerblue {
   border: 1px dotted dodgerblue;
@@ -656,8 +732,20 @@
 .dashed-black {
   border: 1px dashed black;
 }
+.dashed-blue-1 {
+  border: 1px dashed #3333ff;
+}
+.dashed-blue-2 {
+  border: 1px dashed #1a1aff;
+}
 .dashed-blue {
   border: 1px dashed blue;
+}
+.dashed-blue-3 {
+  border: 1px dashed #0000e6;
+}
+.dashed-blue-4 {
+  border: 1px dashed #0000cc;
 }
 .dashed-dodgerblue {
   border: 1px dashed dodgerblue;
