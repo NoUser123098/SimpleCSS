@@ -43,8 +43,20 @@
 .background-blue-4 {
   background-color: #0000cc;
 }
+.background-dodgerblue-1 {
+  background-color: #3399ff;
+}
+.background-dodgerblue-2 {
+  background-color: #4da6ff;
+}
 .background-dodgerblue {
   background-color: dodgerblue;
+}
+.background-dodgerblue-3 {
+  background-color: #1a8cff;
+}
+.background-dodgerblue-4 {
+  background-color: #0080ff;
 }
 .background-aqua {
   background-color: aqua;
@@ -3114,7 +3126,11 @@ Blue 2 - #1a1aff
 Blue
 Blue 3 - #0000e6
 Blue 4 - #0000cc
+DodgerBlue 1 - #3399ff
+DodgerBlue 2 - #4da6ff
 DodgerBlue
+DodgerBlue 3 - #1a8cff
+DodgerBlue 4 - #0080ff
 Aqua
 Red
 Crimson
