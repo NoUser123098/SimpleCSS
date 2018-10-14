@@ -130,7 +130,7 @@
 .background-medpurple {
   background-color: mediumpurple;
 }
-.background-lightgray {
+.background-ltgray {
   background-color: lightgray;
 }
 .background-dimgray {
@@ -232,7 +232,7 @@
 .text-medpurple {
   color: mediumpurple;
 }
-.text-lightgray {
+.text-ltgray {
   color: lightgray;
 }
 .text-dimgray {
@@ -355,7 +355,7 @@
   border-left: 6px solid mediumpurple;
   background-color: #c2adeb;
 }
-.note-lightgray {
+.note-ltgray {
   border-left: 6px solid lightgray;
   background-color: #e6e6e6;
 }
@@ -503,7 +503,7 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
-.card-lightgray {
+.card-ltgray {
   background-color: lightgray;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -621,7 +621,7 @@
 .solid-medpurple {
   border: 1px solid mediumpurple;
 }
-.solid-lightgray {
+.solid-ltgray {
   border: 1px solid lightgray;
 }
 .solid-dimgray {
@@ -726,7 +726,7 @@
 .dotted-medpurple {
   border: 1px dotted mediumpurple;
 }
-.dotted-lightgray {
+.dotted-ltgray {
   border: 1px dotted lightgray;
 }
 .dotted-dimgray {
@@ -831,7 +831,7 @@
 .dashed-medpurple {
   border: 1px dashed mediumpurple;
 }
-.dashed-lightgray {
+.dashed-ltgray {
   border: 1px dashed lightgray;
 }
 .dashed-dimgray {
@@ -1236,11 +1236,11 @@
 .hnav-medpurple a:hover, .hnavs-medpurple a:hover {
   background-color: #6633cc;
 }
-.hnav-lightgray {
+.hnav-ltgray {
   overflow: hidden;
   background-color: lightgray;
 }
-.hnav-lightgray a, .hnavs-lightgray a {
+.hnav-ltgray a, .hnavs-ltgray a {
   float: left;
   color: black;
   text-align: center;
@@ -1248,7 +1248,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-lightgray a:hover, .hnavs-lightgray a:hover {
+.hnav-ltgray a:hover, .hnavs-ltgray a:hover {
   background-color: #b3b3b3;
 }
 .hnav-dimgray {
@@ -1620,7 +1620,7 @@
   cursor: pointer;
   border-radius: 16px;
 }
-.pillbtn-lightgray {
+.pillbtn-ltgray {
   background-color: lightgray;
   border: none;
   color: black;
@@ -1771,7 +1771,7 @@
 .hover-medpurple:hover {
   background-color: mediumpurple;
 }
-.hover-lightgray:hover {
+.hover-ltgray:hover {
   background-color: lightgray;
 }
 .hover-dimgray:hover {
@@ -1961,7 +1961,7 @@
   overflow: hidden;
   background-color: mediumpurple;
 }
-.hnavs-lightgray {
+.hnavs-ltgray {
   position: fixed;
   top: 0;
   width: 100%;
@@ -2121,7 +2121,7 @@
   -webkit-text-decoration-color: mediumpurple;
   text-decoration-color: mediumpurple;
 }
-.u-solid-lightgray {
+.u-solid-ltgray {
   text-decoration: underline;
   -webkit-text-decoration-color: lightgray;
   text-decoration-color: lightgray;
@@ -2296,7 +2296,7 @@
   -webkit-text-decoration-color: mediumpurple;
   text-decoration-color: mediumpurple;
 }
-.u-dotted-lightgray {
+.u-dotted-ltgray {
   text-decoration: underline;
   text-decoration-style: dotted;
   -webkit-text-decoration-color: lightgray;
@@ -2476,7 +2476,7 @@
   -webkit-text-decoration-color: mediumpurple;
   text-decoration-color: mediumpurple;
 }
-.u-dashed-lightgray {
+.u-dashed-ltgray {
   text-decoration: underline;
   text-decoration-style: dashed;
   -webkit-text-decoration-color: lightgray;
@@ -2680,7 +2680,7 @@
   text-decoration-color: mediumpurple;
   text-decoration-style: solid;
 }
-.o-solid-lightgray {
+.o-solid-ltgray {
   text-decoration: overline;
   -webkit-text-decoration-color: lightgray;
   text-decoration-color: lightgray;
@@ -2884,7 +2884,7 @@
   text-decoration-color: mediumpurple;
   text-decoration-style: dotted;
 }
-.o-dotted-lightgray {
+.o-dotted-ltgray {
   text-decoration: overline;
   -webkit-text-decoration-color: lightgray;
   text-decoration-color: lightgray;
@@ -3088,7 +3088,7 @@
   text-decoration-color: mediumpurple;
   text-decoration-style: dashed;
 }
-.o-dashed-lightgray {
+.o-dashed-ltgray {
   text-decoration: overline;
   -webkit-text-decoration-color: lightgray;
   text-decoration-color: lightgray;
@@ -3877,7 +3877,7 @@
   margin-top: -20px;
   margin-left: -20px;
 }
-.speech-lightgray {
+.speech-ltgray {
   position: relative;
   background: lightgray;
   border-radius: .4em;
@@ -3887,7 +3887,7 @@
   text-align: center;
   line-height: 6;
 }
-.speech-lightgray:after {
+.speech-ltgray:after {
   content: '';
   position: absolute;
   left: 0;
