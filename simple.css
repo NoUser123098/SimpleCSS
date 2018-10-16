@@ -88,7 +88,7 @@
 .background-lime {
   background-color: lime;
 }
-.background-springgreen {
+.background-sprgreen {
   background-color: springgreen;
 }
 .background-black {
@@ -142,7 +142,7 @@
 .background-silver {
   background-color: silver;
 }
-.background-medspringgreen {
+.background-medsprgreen {
   background-color: mediumspringgreen;
 }
 .text-blue-1 {
@@ -193,7 +193,7 @@
 .text-lime {
   color: lime;
 }
-.text-springgreen {
+.text-sprgreen {
   color: springgreen;
 }
 .text-gray {
@@ -244,7 +244,7 @@
 .text-silver {
   color: silver;
 }
-.text-medspringgreen {
+.text-medsprgreen {
   color: mediumspringgreen;
 }
 .font-scp {
@@ -303,7 +303,7 @@
   border-left: 6px solid lime;
   background-color: #b3ffb3;
 }
-.note-springgreen {
+.note-sprgreen {
   border-left: 6px solid springgreen;
   background-color: #99ffcc;
 }
@@ -371,7 +371,7 @@
   border-left: 6px solid silver;
   background-color: #f2f2f2;
 }
-.note-medspringgreen {
+.note-medsprgreen {
   border-left: 6px solid mediumspringgreen;
   background-color: #6dffbb;
 }
@@ -438,7 +438,7 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
-.card-springgreen {
+.card-sprgreen {
   background-color: springgreen;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -523,7 +523,7 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
 }
-.card-medspringgreen {
+.card-medsprgreen {
   background-color: mediumspringgreen;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -816,7 +816,7 @@
 .dotted-lime {
   border: 1px dotted lime;
 }
-.dotted-springgreen {
+.dotted-sprgreen {
   border: 1px dotted springgreen;
 }
 .dotted-gray {
@@ -867,7 +867,7 @@
 .dotted-silver {
   border: 1px dotted silver;
 }
-.dotted-medspringgreen {
+.dotted-medsprgreen {
   border: 1px dotted mediumspringgreen;
 }
 .dashed-black {
@@ -921,7 +921,7 @@
 .dashed-lime {
   border: 1px dashed lime;
 }
-.dashed-springgreen {
+.dashed-sprgreen {
   border: 1px dashed springgreen;
 }
 .dashed-gray {
@@ -972,7 +972,7 @@
 .dashed-silver {
   border: 1px dashed silver;
 }
-.dashed-medspringgreen {
+.dashed-medsprgreen {
   border: 1px solid mediumspringgreen;
 }
 .dec-b {
@@ -1170,11 +1170,11 @@
 .hnav-lime a:hover, .hnavs-lime a:hover {
   background-color: #009900;
 }
-.hnav-springgreen {
+.hnav-sprgreen {
   overflow: hidden;
   background-color: springgreen;
 }
-.hnav-springgreen a, .hnavs-springgreen a {
+.hnav-sprgreen a, .hnavs-sprgreen a {
   float: left;
   color: black;
   text-align: center;
@@ -1182,7 +1182,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-springgreen a:hover, .hnavs-springgreen a:hover {
+.hnav-sprgreen a:hover, .hnavs-sprgreen a:hover {
   background-color: #00994d;
 }
 .hnav-gray {
@@ -1425,11 +1425,11 @@
 .hnav-silver a:hover, .hnavs-silver a:hover {
   background-color: #999;
 }
-.hnav-medspringgreen {
+.hnav-medsprgreen {
   overflow: hidden;
   background-color: mediumspringgreen;
 }
-.hnav-medspringgreen a, .hnavs-medspringgreen a {
+.hnav-medsprgreen a, .hnavs-medsprgreen a {
   float: left;
   color: black;
   text-align: center;
@@ -1437,7 +1437,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-.hnav-medspringgreen a:hover, .hnavs-medspringgreen a:hover {
+.hnav-medsprgreen a:hover, .hnavs-medsprgreen a:hover {
   background-color: #00b36e;
 }
 .round-10 {
@@ -1593,7 +1593,7 @@
   cursor: pointer;
   border-radius: 16px;
 }
-.pillbtn-springgreen {
+.pillbtn-sprgreen {
   background-color: springgreen;
   border: none;
   color: black;
@@ -1797,7 +1797,7 @@
   cursor: pointer;
   border-radius: 16px;
 }
-.pillbtn-medspringgreen {
+.pillbtn-medsprgreen {
   background-color: mediumspringgreen;
   border: none;
   color: black;
@@ -1861,7 +1861,7 @@
 .hover-lime:hover {
   background-color: lime;
 }
-.hover-springgreen:hover {
+.hover-sprgreen:hover {
   background-color: springgreen;
 }
 .hover-gray:hover {
@@ -1912,7 +1912,7 @@
 .hover-silver:hover {
   background-color: silver;
 }
-.hover-medspringgreen:hover {
+.hover-medsprgreen:hover {
   background-color: mediumspringgreen;
 }
 .hnavs-blue {
@@ -1999,7 +1999,7 @@
   overflow: hidden;
   background-color: lime;
 }
-.hnavs-springgreen {
+.hnavs-sprgreen {
   position: fixed;
   top: 0;
   width: 100%;
@@ -2118,7 +2118,7 @@
   overflow: hidden;
   background-color: silver;
 }
-.hnavs-medspringgreen {
+.hnavs-medsprgreen {
   position: fixed;
   top: 0;
   width: 100%;
@@ -2185,7 +2185,7 @@
   -webkit-text-decoration-color: lime;
   text-decoration-color: lime;
 }
-.u-solid-springgreen {
+.u-solid-sprgreen {
   text-decoration: underline;
   -webkit-text-decoration-color: springgreen;
   text-decoration-color: springgreen;
@@ -2270,7 +2270,7 @@
   -webkit-text-decoration-color: silver;
   text-decoration-color: silver;
 }
-.u-solid-medspringgreen {
+.u-solid-medsprgreen {
   text-decoration: underline;
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
@@ -2347,7 +2347,7 @@
   -webkit-text-decoration-color: lime;
   text-decoration-color: lime;
 }
-.u-dotted-springgreen {
+.u-dotted-sprgreen {
   text-decoration: underline;
   text-decoration-style: dotted;
   -webkit-text-decoration-color: springgreen;
@@ -2449,7 +2449,7 @@
   -webkit-text-decoration-color: silver;
   text-decoration-color: silver;
 }
-.u-dotted-medspringgreen {
+.u-dotted-medsprgreen {
   text-decoration: underline;
   text-decoration-style: dotted;
   -webkit-text-decoration-color: mediumspringgreen;
@@ -2527,7 +2527,7 @@
   -webkit-text-decoration-color: lime;
   text-decoration-color: lime;
 }
-.u-dashed-springgreen {
+.u-dashed-sprgreen {
   text-decoration: underline;
   text-decoration-style: dashed;
   -webkit-text-decoration-color: springgreen;
@@ -2629,7 +2629,7 @@
   -webkit-text-decoration-color: silver;
   text-decoration-color: silver;
 }
-.u-dashed-medspringgreen {
+.u-dashed-medsprgreen {
   text-decoration: underline;
   text-decoration-style: dashed;
   -webkit-text-decoration-color: mediumspringgreen;
@@ -2731,7 +2731,7 @@
   text-decoration-color: lime;
   text-decoration-style: solid;
 }
-.o-solid-springgreen {
+.o-solid-sprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: springgreen;
   text-decoration-color: springgreen;
@@ -2833,7 +2833,7 @@
   text-decoration-color: silver;
   text-decoration-style: solid;
 }
-.o-solid-medspringgreen {
+.o-solid-medsprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
@@ -2935,7 +2935,7 @@
   text-decoration-color: lime;
   text-decoration-style: dotted;
 }
-.o-dotted-springgreen {
+.o-dotted-sprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: springgreen;
   text-decoration-color: springgreen;
@@ -3037,7 +3037,7 @@
   text-decoration-color: silver;
   text-decoration-style: dotted;
 }
-.o-dotted-medspringrreen {
+.o-dotted-medsprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
@@ -3139,7 +3139,7 @@
   text-decoration-color: lime;
   text-decoration-style: dashed;
 }
-.o-dashed-springgreen {
+.o-dashed-sprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: springgreen;
   text-decoration-color: springgreen;
@@ -3241,7 +3241,7 @@
   text-decoration-color: silver;
   text-decoration-style: dashed;
 }
-.o-dashed-medspringgreen {
+.o-dashed-medsprgreen {
   text-decoration: overline;
   -webkit-text-decoration-color: mediumspringgreen;
   text-decoration-color: mediumspringgreen;
@@ -3707,7 +3707,7 @@
   margin-top: -20px;
   margin-left: -20px;
 }
-.speech-springgreen {
+.speech-sprgreen {
   position: relative;
   background: springgreen;
   border-radius: .4em;
@@ -3717,7 +3717,7 @@
   text-align: center;
   line-height: 6;
 }
-.speech-springgreen:after {
+.speech-sprgreen:after {
   content: '';
   position: absolute;
   left: 0;
@@ -4098,7 +4098,7 @@
   margin-top: -20px;
   margin-left: -20px;
 }
-.speech-medspringgreen {
+.speech-medsprgreen {
   position: relative;
   background: mediumspringgreen;
   border-radius: .4em;
@@ -4108,7 +4108,7 @@
   text-align: center;
   line-height: 6;
 }
-.speech-medspringgreen:after {
+.speech-medsprgreen:after {
   content: '';
   position: absolute;
   left: 0;
