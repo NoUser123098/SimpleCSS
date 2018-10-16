@@ -534,107 +534,236 @@
 .solid-black {
   border: 1px solid black;
 }
+.solid-black-lg {
+  border: 5px solid black;
+}
 .solid-blue-1 {
   border: 1px solid #3333ff;
+}
+.solid-blue-1-lg {
+  border: 5px solid #3333ff;
 }
 .solid-blue-2 {
   border: 1px solid #1a1aff;
 }
+.solid-blue-2-lg {
+  border: 5px solid #1a1aff;
+}
 .solid-blue {
   border: 1px solid blue;
+}
+.solid-blue-lg {
+  border: 5px solid blue;
 }
 .solid-blue-3 {
   border: 1px solid #0000e6;
 }
+.solid-blue-3-lg {
+  border: 5px solid #0000e6;
+}
 .solid-blue-4 {
   border: 1px solid #0000cc;
 }
-.solid-dodgerblue {
+.solid-blue-4-lg {
+  border: 5px solid #0000cc;
+}
+.solid-dgblue-1 {
+  border: 1px solid #3399ff;
+}
+.solid-dgblue-1-lg {
+  border: 5px solid #3399ff;
+}
+.solid-dgblue-2 {
+  border: 1px solid #4da6ff;
+}
+.solid-dgblue-2-lg {
+  border: 5px solid #4da6ff;
+}
+.solid-dgblue {
   border: 1px solid dodgerblue;
+}
+.solid-dgblue-lg {
+  border: 5px solid dodgerblue;
+}
+.solid-dgblue-3 {
+  border: 1px solid #1a8cff;
+}
+.solid-dgblue-3-lg {
+  border: 5px solid #1a8cff;
+}
+.solid-dgblue-4 {
+  border: 1px solid #0080ff;
+}
+.solid-dgblue-4-lg {
+  border: 5px solid #0080ff;
 }
 .solid-aqua {
   border: 1px solid aqua;
 }
+.solid.aqua-lg {
+  border: 5px solid aqua;
+}
 .solid-red {
   border: 1px solid red;
+}
+.solid-red-lg {
+  border: 5px solid red;
 }
 .solid-crimson {
   border: 1px solid crimson;
 }
+.solid-crimson-lg {
+  border: 5px solid crimson;
+}
 .solid-pink {
   border: 1px solid pink;
+}
+.solid-pink-lg {
+  border: 5px solid pink;
 }
 .solid-hotpink {
   border: 1px solid hotpink;
 }
+.solid-hotpink-lg {
+  border: 5px solid hotpink;
+}
 .solid-deeppink {
   border: 1px solid deeppink;
+}
+.solid-deeppink-lg {
+  border: 5px solid deeppink;
 }
 .solid-magenta {
   border: 1px solid magenta;
 }
+.solid-magenta-lg {
+  border: 5px solid magenta;
+}
 .solid-purple {
   border: 1px solid purple;
+}
+.solid-purple-lg {
+  border: 5px solid purple;
 }
 .solid-green {
   border: 1px solid green;
 }
+.solid-green-lg {
+  border: 5px solid green;
+}
 .solid-lime {
   border: 1px solid lime;
 }
-.solid-springgreen {
+.solid-lime-lg {
+  border: 5px solid lime;
+}
+.solid-sprgreen {
   border: 1px solid springgreen;
+}
+.solid-sprgreen-lg {
+  border: 5px solid springgreen;
 }
 .solid-gray {
   border: 1px solid gray;
 }
+.solid-gray-lg {
+  border: 5px solid gray;
+}
 .solid-yellow {
   border: 1px solid yellow;
+}
+.solid-yellow-lg {
+  border: 5px solid yellow;
 }
 .solid-orange {
   border: 1px solid orange;
 }
+.solid-orange-lg {
+  border: 5px solid orange;
+}
 .solid-teal {
   border: 1px solid teal;
+}
+.solid-teal-lg {
+  border: 5px solid teal;
 }
 .solid-garnet {
   border: 1px solid #862633;
 }
-.solid-darkblue {
+.solid-garnet-lg {
+  border: 5px solid #862633;
+}
+.solid-dkblue {
   border: 1px solid darkblue;
 }
-.solid-darkred {
+.solid-dkblue-lg {
+  border: 5px solid darkblue;
+}
+.solid-dkred {
   border: 1px solid darkred;
+}
+.solid-dkred-lg {
+  border: 5px solid darkred;
 }
 .solid-gold {
   border: 1px solid gold;
 }
+.solid-gold-lg {
+  border: 5px solid gold;
+}
 .solid-tan {
   border: 1px solid tan;
+}
+.solid-tan-lg {
+  border: 5px solid tan;
 }
 .solid-tomato {
   border: 1px solid tomato;
 }
+.solid-tomato-lg {
+  border: 5px solid tomato;
+}
 .solid-violet {
   border: 1px solid violet;
+}
+.solid-violet-lg {
+  border: 5px solid violet;
 }
 .solid-medpurple {
   border: 1px solid mediumpurple;
 }
+.solid-medpurple-lg {
+  border: 5px solid mediumpurple;
+}
 .solid-ltgray {
   border: 1px solid lightgray;
+}
+.solid-ltgray-lg {
+  border: 5px solid lightgray;
 }
 .solid-dimgray {
   border: 1px solid dimgray;
 }
+.solid-dimgray-lg {
+  border: 5px solid dimgray;
+}
 .solid-sienna {
   border: 1px solid sienna;
+}
+.solid-sienna-lg {
+  border: 5px solid sienna;
 }
 .solid-silver {
   border: 1px solid silver;
 }
-.solid-medspringgreen {
+.solid-silver-lg {
+  border: 5px solid silver;
+}
+.solid-medsprgreen {
   border: 1px solid mediumspringgreen;
+}
+.solid-medsprgreen-lg {
+  border: 5px solid mediumspringgreen;
 }
 .dotted-black {
   border: 1px dotted black;
