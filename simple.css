@@ -4133,6 +4133,71 @@
   margin-top: -20px;
   margin-left: -20px;
 }
+.vnav-blue {
+  width: 200px;
+}
+.vnav-blue a {
+  background-color: blue;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-blue a:hover {
+  background-color: #000099;
+}
+.vnav-dgblue {
+  width: 200px;
+}
+.vnav-dgblue a {
+  background-color: dodgerblue;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-dgblue a:hover {
+  background-color: #0066cc;
+}
+.vnav-aqua {
+  width: 200px;
+}
+.vnav-aqua a {
+  background-color: aqua;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-aqua a:hover {
+  background-color: #009999;
+}
+.vnav-red {
+  width: 200px;
+}
+.vnav-red a {
+  background-color: red;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-red a:hover {
+  background-color: #990000;
+}
+.vnav-crimson {
+  width: 200px;
+}
+.vnav-crimson a {
+  background-color: crimson;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-crimson a:hover {
+  background-color: #8c0d26;
+}
 /*
 Notes to Self:
 
@@ -4178,6 +4243,18 @@ MediumSpringGreen
 ---------
 
 Copy/Paste:
-
+.vnav- {
+  width: 200px;
+}
+.vnav- a {
+  background-color: ;
+  color: ;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav- a:hover {
+  background-color: ;
+}
 
 */
