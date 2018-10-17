@@ -4432,6 +4432,97 @@
 .vnav-tomato a:hover {
   background-color: #b31b00;
 }
+.vnav-violet {
+  width: 200px;
+}
+.vnav-violet a {
+  background-color: violet;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-violet a:hover {
+  background-color: #e01fe0;
+}
+.vnav-medpurple {
+  width: 200px;
+}
+.vnav-medpurple a {
+  background-color: mediumpurple;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-medpurple a:hover {
+  background-color: #47248f;
+}
+.vnav-ltgray {
+  width: 200px;
+}
+.vnav-ltgray a {
+  background-color: lightgray;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-ltgray a:hover {
+  background-color: #a6a6a6;
+}
+.vnav-dimgray {
+  width: 200px;
+}
+.vnav-dimgray a {
+  background-color: dimgray;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-dimgray a:hover {
+  background-color: #404040;
+}
+.vnav-sienna {
+  width: 200px;
+}
+.vnav-sienna a {
+  background-color: sienna;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-sienna a:hover {
+  background-color: #63331c;
+}
+.vnav-silver {
+  width: 200px;
+}
+.vnav-silver a {
+  background-color: silver;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-silver a:hover {
+  background-color: #999999;
+}
+.vnav-medsprgreen {
+  width: 200px;
+}
+.vnav-medsprgreen a {
+  background-color: mediumspringgreen;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-medsprgreen a:hover {
+  background-color: #00b36e;
+}
 /*
 Notes to Self:
 
@@ -4477,18 +4568,6 @@ MediumSpringGreen
 ---------
 
 Copy/Paste:
-.vnav- {
-  width: 200px;
-}
-.vnav- a {
-  background-color: ;
-  color: ;
-  display: block;
-  padding: 12px;
-  text-decoration: none;
-}
-.vnav- a:hover {
-  background-color: ;
-}
+
 
 */
