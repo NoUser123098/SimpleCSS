@@ -4198,6 +4198,71 @@
 .vnav-crimson a:hover {
   background-color: #8c0d26;
 }
+.vnav-pink {
+  width: 200px;
+}
+.vnav-pink a {
+  background-color: pink;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-pink a:hover {
+  background-color: #ff8095;
+}
+.vnav-hotpink {
+  width: 200px;
+}
+.vnav-hotpink a {
+  background-color: hotpink;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-hotpink a:hover {
+  background-color: #ff3399;
+}
+.vnav-deeppink {
+  width: 200px;
+}
+.vnav-deeppink a {
+  background-color: deeppink;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-deeppink a:hover {
+  background-color: #b3005f;
+}
+.vnav-magenta {
+  width: 200px;
+}
+.vnav-magenta a {
+  background-color: magenta;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-magenta a:hover {
+  background-color: #b300b3;
+}
+.vnav-purple {
+  width: 200px;
+}
+.vnav-purple a {
+  background-color: purple;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-purple a:hover {
+  background-color: #4d004d;
+}
 /*
 Notes to Self:
 
