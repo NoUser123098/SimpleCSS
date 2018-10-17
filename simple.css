@@ -4263,6 +4263,175 @@
 .vnav-purple a:hover {
   background-color: #4d004d;
 }
+.vnav-green {
+  width: 200px;
+}
+.vnav-green a {
+  background-color: green;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-green a:hover {
+  background-color: #004d00;
+}
+.vnav-lime {
+  width: 200px;
+}
+.vnav-lime a {
+  background-color: lime;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-lime a:hover {
+  background-color: #009900;
+}
+.vnav-sprgreen {
+  width: 200px;
+}
+.vnav-sprgreen a {
+  background-color: springgreen;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-sprgreen a:hover {
+  background-color: #00994d;
+}
+.vnav-gray {
+  width: 200px;
+}
+.vnav-gray a {
+  background-color: gray;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-gray a:hover {
+  background-color: #4d4d4d;
+}
+.vnav-yellow {
+  width: 200px;
+}
+.vnav-yellow a {
+  background-color: yellow;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-yellow a:hover {
+  background-color: #b3b300;
+}
+.vnav-orange {
+  width: 200px;
+}
+.vnav-orange a {
+  background-color: orange;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-orange a:hover {
+  background-color: #b37400;
+}
+.vnav-teal {
+  width: 200px;
+}
+.vnav-teal a {
+  background-color: teal;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-teal a:hover {
+  background-color: #004d4d;
+}
+.vnav-garnet {
+  width: 200px;
+}
+.vnav-garnet a {
+  background-color: #862633;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-garnet a:hover {
+  background-color: #50161e;
+}
+.vnav-dkblue {
+  width: 200px;
+}
+.vnav-dkblue a {
+  background-color: darkblue;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-dkblue a:hover {
+  background-color: #00004d;
+}
+.vnav-dkred {
+  width: 200px;
+}
+.vnav-dkred a {
+  background-color: darkred;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-dkred a:hover {
+  background-color: #4d0000;
+}
+.vnav-gold {
+  width: 200px;
+}
+.vnav-gold a {
+  background-color: gold;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-gold a:hover {
+  background-color: #998200;
+}
+.vnav-tan {
+  width: 200px;
+}
+.vnav-tan a {
+  background-color: tan;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-tan a:hover {
+  background-color: #b88747;
+}
+.vnav-tomato {
+  width: 200px;
+}
+.vnav-tomato a {
+  background-color: tomato;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vnav-tomato a:hover {
+  background-color: #b31b00;
+}
 /*
 Notes to Self:
 
