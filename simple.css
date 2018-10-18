@@ -4523,7 +4523,7 @@
 .vnav-medsprgreen a:hover {
   background-color: #00b36e;
 }
-.tooltip-blue-1, .tooltip-blue-2, .tooltip-blue, .tooltip-blue-3, .tooltip-blue-4, .tooltip-dgblue-1, .tooltip-dgblue-2, .tooltip-dgblue, .tooltip-dgblue-3, .tooltip-dgblue-4 {
+.tooltip-blue-1, .tooltip-blue-2, .tooltip-blue, .tooltip-blue-3, .tooltip-blue-4, .tooltip-dgblue-1, .tooltip-dgblue-2, .tooltip-dgblue, .tooltip-dgblue-3, .tooltip-dgblue-4, .tooltip-aqua, .tooltip-red, .tooltip-crimson, .tooltip-pink, .tooltip-hotpink, .tooltip-deeppink, .tooltip-magenta, .tooltip-purple, .tooltip-green, .tooltip-lime, .tooltip-sprgreen, .tooltip-gray, .tooltip-yellow, .tooltip-orange, .tooltip-teal, .tooltip-garnet, .tooltip-dkblue, .tooltip-dkred, .tooltip-gold, .tooltip-tan, .tooltip-tomato, .tooltip-violet, .tooltip-medpurple, .tooltip-ltgray, .tooltip.dimgray, .tooltip-sienna, .tooltip-silver, .tooltip-medsprgreen {
   position: relative;
   display: inline-block;
 }
@@ -4579,7 +4579,7 @@
   border-style: solid;
   border-color: #1a1aff transparent transparent transparent;
 }
-.tooltip-blue-1:hover .tooltiptext, .tooltip-blue-2:hover .tooltiptext, .tooltip-blue:hover .tooltiptext, .tooltip-blue-3:hover .tooltiptext, .tooltip-blue-4:hover .tooltiptext, .tooltip-dgblue-1:hover .tooltiptext, .tooltip-dgblue-2:hover .tooltiptext, .tooltip-dgblue:hover .tooltiptext, .tooltip-dgblue-3:hover .tooltiptext, .tooltip-dgblue-4:hover .tooltiptext {
+.tooltip-blue-1:hover .tooltiptext, .tooltip-blue-2:hover .tooltiptext, .tooltip-blue:hover .tooltiptext, .tooltip-blue-3:hover .tooltiptext, .tooltip-blue-4:hover .tooltiptext, .tooltip-dgblue-1:hover .tooltiptext, .tooltip-dgblue-2:hover .tooltiptext, .tooltip-dgblue:hover .tooltiptext, .tooltip-dgblue-3:hover .tooltiptext, .tooltip-dgblue-4:hover .tooltiptext, .tooltip-aqua:hover .tooltiptext, .tooltip-red:hover .tooltiptext, .tooltip-crimson:hover .tooltiptext, .tooltip-pink:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
 }
