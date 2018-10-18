@@ -4523,6 +4523,40 @@
 .vnav-medsprgreen a:hover {
   background-color: #00b36e;
 }
+.tooltip-blue-1, .tooltip-blue-2, .tooltip-blue, .tooltip-blue-3, .tooltip-blue-4, .tooltip-dgblue-1, .tooltip-dgblue-2, .tooltip-dgblue, .tooltip-dgblue-3, .tooltip-dgblue-4 {
+  position: relative;
+  display: inline-block;
+}
+.tooltip-blue-1 .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #3333ff;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.tooltip-blue-1 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #3333ff transparent transparent transparent;
+}
+.tooltip-blue-1:hover .tooltiptext, .tooltip-blue-2:hover .tooltiptext, .tooltip-blue:hover .tooltiptext, .tooltip-blue-3:hover .tooltiptext, .tooltip-blue-4:hover .tooltiptext, .tooltip-dgblue-1:hover .tooltiptext, .tooltip-dgblue-2:hover .tooltiptext, .tooltip-dgblue:hover .tooltiptext, .tooltip-dgblue-3:hover .tooltiptext, .tooltip-dgblue-4:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
 /*
 Notes to Self:
 
@@ -4569,5 +4603,30 @@ MediumSpringGreen
 
 Copy/Paste:
 
-
+.tooltip- .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: ;
+  color: #;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.tooltip- .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:  transparent transparent transparent;
+}
 */
