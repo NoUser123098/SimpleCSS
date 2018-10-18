@@ -268,8 +268,14 @@
 .font-if {
   font-family: "Indie Flower";
 }
-.font-seville {
+.font-sev {
   font-family: "Seville";
+}
+.font-sans {
+  font-family: sans-serif;
+}
+.font-ms {
+  font-family: monospace;
 }
 .note-blue {
   border-left: 6px solid blue;
@@ -4579,7 +4585,7 @@
   border-style: solid;
   border-color: #1a1aff transparent transparent transparent;
 }
-.tooltip-blue-1:hover .tooltiptext, .tooltip-blue-2:hover .tooltiptext, .tooltip-blue:hover .tooltiptext, .tooltip-blue-3:hover .tooltiptext, .tooltip-blue-4:hover .tooltiptext, .tooltip-dgblue-1:hover .tooltiptext, .tooltip-dgblue-2:hover .tooltiptext, .tooltip-dgblue:hover .tooltiptext, .tooltip-dgblue-3:hover .tooltiptext, .tooltip-dgblue-4:hover .tooltiptext, .tooltip-aqua:hover .tooltiptext, .tooltip-red:hover .tooltiptext, .tooltip-crimson:hover .tooltiptext, .tooltip-pink:hover .tooltiptext {
+.tooltip-blue-1:hover .tooltiptext, .tooltip-blue-2:hover .tooltiptext, .tooltip-blue:hover .tooltiptext, .tooltip-blue-3:hover .tooltiptext, .tooltip-blue-4:hover .tooltiptext, .tooltip-dgblue-1:hover .tooltiptext, .tooltip-dgblue-2:hover .tooltiptext, .tooltip-dgblue:hover .tooltiptext, .tooltip-dgblue-3:hover .tooltiptext, .tooltip-dgblue-4:hover .tooltiptext, .tooltip-aqua:hover .tooltiptext, .tooltip-red:hover .tooltiptext, .tooltip-crimson:hover .tooltiptext, .tooltip-pink:hover .tooltiptext, .tooltip-hotpink:hover .tooltiptext, .tooltip-deeppink:hover .tooltiptext, .tooltip-magenta:hover .tooltiptext, .tooltip-purple:hover .tooltiptext, .tooltip-green:hover .tooltiptext, .tooltip-lime:hover .tooltiptext, .tooltip-gray:hover .tooltiptext, .tooltip-yellow:hover .tooltiptext, .tooltip-orange:hover .tooltiptext, .tooltip-teal:hover .tooltiptext, .tooltip-garnet:hover .tooltiptext, .tooltip-dkblue:hover .tooltiptext, .tooltip-dkred:hover .tooltiptext, .tooltip-gold:hover .tooltiptext, .tooltip-tan:hover .tooltiptext, .tooltip-tomato:hover .tooltiptext, .tooltip-violet:hover .tooltiptext, .tooltip-medpurple:hover .tooltiptext, .tooltip-ltgray:hover .tooltiptext, .tooltip-dimgray:hover .tooltiptext, .tooltip-sienna:hover .tooltiptext, .tooltip-silver:hover .tooltiptext, .tooltip-medsprgreen:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
 }
