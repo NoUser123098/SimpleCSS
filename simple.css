@@ -5525,6 +5525,141 @@
   visibility: visible;
   opacity: 1;
 }
+.upper-roman {
+  list-style-type: upper-roman;
+}
+.lower-roman {
+  list-style-type: lower-roman;
+}
+.upper-alpha {
+  list-style-type: upper-alpha;
+}
+.lower-alpha {
+  list-style-type: lower-alpha;
+}
+.square {
+  list-style-type: square;
+}
+.disc {
+  list-style-type: disc;
+}
+.t-shadow-black {
+  text-shadow: 2px 2px 4px black;
+}
+.t-shadow-blue-1 {
+  text-shadow: 2px 2px 4px #3333ff;
+}
+.t-shadow-blue-2 {
+  text-shadow: 2px 2px 4px #1a1aff;
+}
+.t-shadow-blue {
+  text-shadow: 2px 2px 4px blue;
+}
+.t-shadow-blue-3 {
+  text-shadow: 2px 2px 4px #0000e6;
+}
+.t-shadow-blue-4 {
+  text-shadow: 2px 2px 4px #0000cc;
+}
+.t-shadow-dgblue-1 {
+  text-shadow: 2px 2px 4px #3399ff;
+}
+.t-shadow-dgblue-2 {
+  text-shadow: 2px 2px 4px #4da6ff;
+}
+.t-shadow-dgblue {
+  text-shadow: 2px 2px 4px dodgerblue;
+}
+.t-shadow-dgblue-3 {
+  text-shadow: 2px 2px 4px #1a8cff;
+}
+.t-shadow-dgblue-4 {
+  text-shadow: 2px 2px 4px #0080ff;
+}
+.t-shadow-aqua {
+  text-shadow: 2px 2px 4px aqua;
+}
+.t-shadow-red {
+  text-shadow: 2px 2px 4px red;
+}
+.t-shadow-crimson {
+  text-shadow: 2px 2px 4px crimson;
+}
+.t-shadow-pink {
+  text-shadow: 2px 2px 4px pink;
+}
+.t-shadow-hotpink {
+  text-shadow: 2px 2px 4px hotpink;
+}
+.t-shadow-deeppink {
+  text-shadow: 2px 2px 4px deeppink;
+}
+.t-shadow-magenta {
+  text-shadow: 2px 2px 4px magenta;
+}
+.t-shadow-purple {
+  text-shadow: 2px 2px 4px purple;
+}
+.t-shadow-green {
+  text-shadow: 2px 2px 4px green;
+}
+.t-shadow-lime {
+  text-shadow: 2px 2px 4px lime;
+}
+.t-shadow-sprgreen {
+  text-shadow: 2px 2px 4px springgreen;
+}
+.t-shadow-gray {
+  text-shadow: 2px 2px 4px gray;
+}
+.t-shadow-yellow {
+  text-shadow: 2px 2px 4px yellow;
+}
+.t-shadow-orange {
+  text-shadow: 2px 2px 4px orange;
+}
+.t-shadow-teal {
+  text-shadow: 2px 2px 4px teal;
+}
+.t-shadow-garnet {
+  text-shadow: 2px 2px 4px #862633;
+}
+.t-shadow-dkblue {
+  text-shadow: 2px 2px 4px darkblue;
+}
+.t-shadow-dkred {
+  text-shadow: 2px 2px 4px darkred;
+}
+.t-shadow-gold {
+  text-shadow: 2px 2px 4px gold;
+}
+.t-shadow-tan {
+  text-shadow: 2px 2px 4px tan;
+}
+.t-shadow-tomato {
+  text-shadow: 2px 2px 4px tomato;
+}
+t-shadow-violet {
+  text-shadow: 2px 2px 4px violet;
+}
+.t-shadow-medpurple {
+  text-shadow: 2px 2px 4px mediumpurple;
+}
+.t-shadow-ltgray {
+  text-shadow: 2px 2px 4px lightgray;
+}
+.t-shadow-dimgray {
+  text-shadow: 2px 2px 4px dimgray;
+}
+.t-shadow-sienna {
+  text-shadow: 2px 2px 4px sienna;
+}
+.t-shadow-silver {
+  text-shadow: 2px 2px 4px silver;
+}
+.t-shadow-medsprgreen {
+  text-shadow: 2px 2px 4px mediumspringgreen;
+}
 /*
 Notes to Self:
 
@@ -5571,30 +5706,5 @@ MediumSpringGreen
 
 Copy/Paste:
 
-.tooltip- .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: ;
-  color: #;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -60px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-.tooltip- .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color:  transparent transparent transparent;
-}
+
 */
