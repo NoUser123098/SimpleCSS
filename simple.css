@@ -5660,6 +5660,9 @@ t-shadow-violet {
 .t-shadow-medsprgreen {
   text-shadow: 2px 2px 4px mediumspringgreen;
 }
+.b-shadow-blue-1 {
+  box-shadow: 0 8px 16px 0 #3333ff;
+}
 /*
 Notes to Self:
 
